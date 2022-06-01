@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Global finance: initial considerations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35608</md:content-id>
+  <md:title>Global finance: initial considerations</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para>
+<emphasis>Authors:</emphasis> Vlad Malamud, Yevgeniy Rotenberg</para>
+<para>
+<emphasis>Editor:</emphasis> Douglas Allen</para>
+<para><emphasis>Reviewers:</emphasis> Dean Murray Young (Thompson Rivers University, Canada) Timothy B Folta (Purdue University)</para>
+<para>
+<emphasis>Contributing authors:</emphasis> Wesley Scott Cables, Ricardo Cubillos, Mike Davis, Vesselin Dotkov, Loiuse Doyle,
+Barbara Gabhauer, Glenna Gagliardi, Melissa Harrison Hiatt, Katie Holtmeier, Alisa Jeffrey, Alexia Jennings, Tim
+Pitner, Ashley Randall, Dag Johan Sundby, Nathalie Tryon, Jeffrey Wiant, Sarah Wilson</para></md:abstract>
+  <md:uuid>c7def361-e81a-45c1-ab91-d9d9b6b4ee9f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170719711733">
+      <title>Global finance: initial considerations </title>
+      <para id="id1170716176133">As the global economy has become more integrated, every company and individual is affected by the developments of the markets and the economies of countries other than their own. Entrepreneurs willing to venture into the global financial marketplace may find lower-cost financing alternatives than are available in their home country. They may also want to obtain financing in the local markets they choose to serve. As a result, with constant economic changes, and fluctuations in the marketplace, along with trade barriers being lowered around the world, the entrepreneurs of tomorrow cannot limit their finance knowledge to just their home country, but can be open to looking at alternative sources to fund their business operations. Entrepreneurs will find that understanding the functioning of the global financial marketplace is a key element of their knowledge and skill base, and a key aspect of furthering their business. </para>
+      <section id="id1170718734948"><title>International currency market</title><para id="id1170724722700"><title>Exchange rates</title>The price of one country’s currency in units of another country’s currency is known as a foreign currency exchange rate. Exchange rates can be quoted in two ways. One way, known as a direct quote, is to state the number of domestic units of currency per one unit of foreign currency. If an exchange rate is an indirect quote, the exchange rate is stated as the number of foreign units per one unit of domestic currency (Beenhakker, 2001).</para>
+        <table id="id1170713118755" summary="Table of exchange rates.">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c2">For a US company trading US dollars ($) for Swiss Francs (CHF)</entry>
+              </row>
+              <row>
+                <entry>Direct Quote</entry>
+                <entry>$0.75/CHF</entry>
+              </row>
+              <row>
+                <entry>Indirect Quote</entry>
+                <entry>CHF1.25/$</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1170719363018">
+        <title>Foreign exchange market</title>
+        <para id="id1170719045846">The foreign exchange (Forex) market is the mechanism, which facilitates the purchase and the sale of foreign currencies. The Forex is a financial market where the participants exchange one monetary unit for another currency. The market operates continuously, 24 hours a day, because a financial center is always open somewhere in the world. The interconnection of the markets makes continuous trading possible (Carrada-Bravo, 2003). </para>
+        <para id="id1170721479308">The foreign exchange market is generally divided into five basic currency markets based on pricing procedures ruling the exchange, the time to maturity, the degree of freedom available, the convertibility of currencies, and how the currencies are quoted (Carrada-Bravo, 2003).</para>
+        <para id="id1170718385926">In addition, the foreign exchange market is one of the most traded and liquid instruments in the financial world, and serves as a barometer of broader financial market conditions and risk appetite. </para>
+      </section>
+      <section id="id1170722193765">
+        <title>Introduction to currency risk</title>
+        <para id="id1170718943624"><emphasis effect="bold">Currency risk</emphasis> is the potential consequence from an adverse movement in foreign exchange rates (Coyle, 2000). Organizations are exposed to currency risk when involved, directly or indirectly, in international trade and finance. Currency risk arises because exchange rates are volatile in the short and the long-term and the future movements of exchange rates cannot be predicted. Companies will as a result suffer losses due to adverse exchange rate movements when exposed to foreign currencies (Coyle, 2000).</para>
+        <para id="id1170720589171"><emphasis effect="bold">Hedging</emphasis> is the term used to describe the actions that reduce or eliminate an exposure to risk (Coyle, 2000). Common ways of hedging currency risk involve: </para>
+        <list id="id1170712580251" list-type="bulleted">
+          <item>transferring the risk to your trading partner by placing the transaction in your domestic currency</item>
+          <item>structurally hedging your risk by off setting income against expenditure in the same currency</item>
+          <item>purchasing derivatives in the foreign exchange market (Coyle, 2000)</item>
+        </list>
+      </section>
+      <section id="id1170713602224">
+        <title>Introduction to derivatives</title>
+        <para id="id1170714169148">A financial derivative is a financial instrument where the price is derived from the value of an underlying asset often used to manage risk exposure. There are three classes of derivatives.</para>
+        <para id="id1170714065494">Futures: A futures contract is a “commitment to exchange a specified amount of one asset for a specified amount of another asset at a specified time in the future” (Butler, 2003). </para>
+        <para id="id1170714290717">Options: An options contract “gives the option holder the right to buy or sell an underlying asset at a specified price and on a specified date” (Butler, 2003).</para>
+        <para id="id1170720302456">Swaps: A swap is an “agreement to exchange two liabilities (or assets) and, after a prearranged length of time, to re-exchange the liabilities (or assets)” (Butler, 2003).</para>
+        <para id="id1170714823735"><emphasis effect="italics">Financial derivatives are a very complex system of agreements. It is wise to consult a banking professional for advice on how to implement. </emphasis></para>
+      </section>
+      <section id="id1170717274695">
+        <title>International accounting standards board</title>
+        <para id="id1170714060293">The International Accounting Standards Committee (IASC) Foundation, formed in March 2001, is the parent body of the International Accounting Standards Board (IASB). The IASB, formed on April 1, 2001, has assumed accounting standard-setting responsibilities from its predecessor body, the IASC (International Accounting Standard Boards: About Us, n.d.). </para>
+        <para id="id1170718378400">The objectives of the IASB are:</para>
+        <list id="id1170713160597" list-type="bulleted">
+          <item>To develop, in the public interest, a single set of high quality, understandable and enforceable global accounting standards</item>
+          <item>To help participants in the world’s capital markets and other users make economic decisions by having access to high quality, transparent, and comparable information</item>
+          <item>To promote the use and vigorous application of those standards</item>
+          <item>To bring about convergence of national accounting standards and international accounting standards to high quality solutions (Hussey, 2005).</item>
+        </list>
+        <figure id="id1170717999493"><label>Exhibit</label><media id="id1170717999493_media" alt="The interaction between the IASC foundation, the IASB, the SAC, the IFRIC, and the IFRS.">
+            <image mime-type="image/jpg" src="../../media/Picture 20.jpg" id="id1170717999493__onlineimage" width="400" print-width="4.5in"/>
+          </media>
+        <caption>The way the IASB functions (www.iasb.org)</caption></figure>
+        
+        <para id="id1170720098558">
+          <emphasis effect="italics">Even though the IASB standards are not enforced internationally at this time, the standards are quickly being processed. Therefore, a company looking to go international should abide by IASB standards.</emphasis>
+        </para>
+      </section>
+      <section id="id1170730596081">
+        <title>Global finance and the small business entrepreneur </title>
+        <para id="id1170730075762">With the Aga Khan Rural Support Programme (AKRSP) micro-loan, Ms. Shahira has begun to venture into the global financial marketplace. While the funding from the loan was sufficient for Ms. Shahira’s small business at the time, upon expansion, she will require additional sources of capital. Understanding the home country’s financial system, and the alternative funding sources available abroad, is a key element of furthering her sewing company.</para>
+      </section>
+    </section>
+  </content>
+</document>

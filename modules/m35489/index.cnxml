@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Ledgers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35489</md:content-id>
+  <md:title>Ledgers</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Roger K Baer (CPA, LLC; and Former Partner, Arthur Andersen &amp; Co., USA)</para></md:abstract>
+  <md:uuid>c1ef089e-951c-4413-8633-69b6f21a284c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+<para id="id1170542873821">The version quoted above states that debits and credits must be entered into a <emphasis effect="italics">ledger</emphasis>, so it is important that you understand what this term means, as it may be new to you. As you will see from some of the additional sources we quote, oftentimes <emphasis effect="italics">journal</emphasis> and <emphasis effect="italics">ledger</emphasis> are used to describe the same thing.</para>
+      <para id="id1170543010512">So, what is a ledger? A <term>ledger</term> is simply a collection of the accounts of your business where transactions are recorded using the double-entry bookkeeping method. If you are operating with a completely manual system, your ledgers (you will have more than one, as discussed in a moment) are on paper, usually in a bound volume pre-printed in a special way to accommodate the recording of transactions. If you are using a pre-coded application software package on a PC for your accounting system, your ledgers will be on the computer.</para>
+      <section id="id1170543125760">
+        <title>Types of ledgers </title>
+        <para id="id1170526351871">Most organizations operate with two types of ledgers, the General Ledger and one or more subsidiary ledgers. The General Ledger contains a minimum of one page for <emphasis effect="underline">each account in the chart of accounts</emphasis>. According to one authoritative source:</para>
+        <para id="id1170533317118"><quote id="id1170533317118_quote" display="block">It is also known as G/L and The Final Book of Entry. It is a collection of all balance sheet, income, and expense accounts used to keep the accounting records of a company. A General Ledger is a perpetual record of the activity and balances of the accounts. Each company has only one General Ledger (<link document="m35496" target-id="id1170665513784"/>) </quote>
+        </para>
+        <para id="id1170520049734">However, some accounts, like accounts receivable or accounts payable, are comprised of the sum of a number of individual amounts. Let us look at accounts receivable as an example. Suppose we have a balance (i.e. total) amount of USD 3,250 in our accounts receivable account in the General Ledger. Remember, accounts receivable are amounts our customers owe us. Therefore, the USD 3,250 balance we have in our accounts receivable is the sum total of amounts owed to us by several individual customers. For the sake of convenience, we keep a subsidiary ledger of individual accounts receivable as illustrated in <link target-id="eip-id1164905959774"/> below.</para>
+        
+<figure id="eip-id1164905959774"><label>Exhibit</label>
+<media id="eip-id7517846" alt="A sample of the accounts receivable subsidiary ledger, with columns for the date, invoice number, sales amount, payment amount, payment reference number, and balance."><image mime-type="image/png" src="../../media/exhibit39.png" width="600px" print-width="5.5in"/></media>
+<caption>Accounts Receivable Subsidiary Ledger example</caption></figure>
+
+        <para id="id1170523954159">The Accounts Receivable Subsidiary Ledger has one page for each customer who has earned the right to be extended credit, and is expected pay off their outstanding balance each month. The sum of the customer balances in the Accounts Receivable Subsidiary Ledger must equal the Accounts Receivable balance in the company’s General Ledger. </para>
+        <para id="id1170524680437">In the case of the Accounts Receivable example, when a sale is entered in the ledger, a corresponding entry is made in a Sales Journal. And, when a payment is received and posted to a customer’s account in the Accounts Receivable ledger, a corresponding entry is made in a Cash Receipts Journal.</para>
+        <para id="id1170532272992">Similar subsidiary ledgers are created any time there is a sufficient number of detail accounts to warrant it.  Detailed accounts may be employee accounts for payroll, or product numbers for inventory, for example. Setting up subsidiary ledgers and journals for special purposes like this shields the General Ledger from an excessive amount of detail and, at the same time, preserves the principle of double-entry accounting, makes reconciliations easier and, in general, promotes accuracy in a company’s accounting records. In real life, of course, things can get more complicated, but this is the basic approach that is followed. </para>
+        <para id="id1170520049797">In <link document="m35500"/>, we discuss the many opportunities that small businesses have to use computer software to set up and maintain records of all sorts for their business, from accounting, payroll, customer relationship management, inventory control and the like. Going much beyond this is beyond the scope of this chapter. You can expect the most popular accounting software packages to assume you do not know a lot about accounting. Therefore, most offerings will lead you through the process of setting up a chart of accounts that is appropriate for your business and help you decide which basic reports you should have. Over and above that, most will permit you to prepare the advanced reports and analyses discussed in the following section, as well as custom reports tailored to your specific needs. </para>
+        <para id="id1170534146066">There are several sources on the Internet that compare the functions, features, and prices of software packages for accounting to help you make the proper selection. One especially good one is “Accounting Software Review 2009 – TopTenREVIEWS” (<link target-id="id1170675005561" document="m35496"/>).Quoting from their website:</para>
+        <para id="id1170525278273"><quote id="id1170525278273_quote" display="block">Opening a small business in today's fast-paced economic climate can be an exciting, complicated and expensive endeavor. On the surface, it seems simple—just make sure you're selling your goods for more than it costs to produce them, right? Wrong. Without proper bookkeeping, your blooming company can take an abrupt dive towards bankruptcy.</quote>
+          <quote id="id5280140_quote" display="block">This is why accounting is a key component in any small business's success. It should play a role in every financial decision you make—from purchasing vehicles, equipment and supplies to increasing production, stocking inventory and determining salaries.</quote>
+          <quote id="id1170530456342_quote" display="block">But if you, like most people, lack an extensive background in accounting, where do you begin? Today's accounting software has the solution—giving you the tools and the information you need to keep your financial records in check, while aiding you in making the most of your company's cash flow.</quote>
+          <quote id="id1170530261637_quote" display="block">Unfortunately, there are about as many software packages for accounting as there are types of small businesses and determining which one best meets the needs of your company can be a tricky transaction—but that's where we can help.</quote>
+          <quote id="id1170525439108_quote" display="block">Within this site, you'll find <link url="http://accounting-software-review.toptenreviews.com/accounting-for-beginners.html">articles on accounting</link> and <link url="http://accounting-software-review.toptenreviews.com/peachtree-review.html">comprehensive reviews</link> to help you make an informed decision on which accounting software is right for your business. At TopTenREVIEWS, we do the research so you don't have to!™” If you have access to the Internet, we highly recommend exploring this site for ideas on how to move forward with your accounting system.</quote>
+        </para>
+        <para id="id1170527859123">Here is an excerpt from the website where they compare ten software packages feature by feature. In the table reproduced here, we only show the names of the packages and their prices. For more detail you will need to visit the Accounting Software Review 2009 website itself (<link url="http://accounting-software-review.toptenreviews.com/">http://accounting-software-review.toptenreviews.com/</link>).</para>
+        
+        <table id="id1170526318438" summary="product comparisons">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Package Name</entry>
+                <entry>Overall Ranking</entry>
+                <entry>Price in US Dollars</entry>
+              </row>
+              <row>
+                <entry>Peachtree Complete</entry>
+                <entry>Excellent</entry>
+                <entry>$249.99</entry>
+              </row>
+              <row>
+                <entry>MYOB Business Essentials</entry>
+                <entry>Very Good Plus</entry>
+                <entry>$99.00</entry>
+              </row>
+              <row>
+                <entry>Quickbooks Pro</entry>
+                <entry>Very Good</entry>
+                <entry>$178.95</entry>
+              </row>
+              <row>
+                <entry>NetSuite Small Business</entry>
+                <entry>Very Good</entry>
+                <entry>$1188.00</entry>
+              </row>
+              <row>
+                <entry>Cougar Mountain</entry>
+                <entry>Very Good</entry>
+                <entry>$1499.00</entry>
+              </row>
+              <row>
+                <entry>Bookkeeper</entry>
+                <entry>Very Good</entry>
+                <entry>$29.99</entry>
+              </row>
+              <row>
+                <entry>Simply Accounting</entry>
+                <entry>Good Plus</entry>
+                <entry>$149.99</entry>
+              </row>
+              <row>
+                <entry>CYMA IV
+<newline/>Accounting for Windows</entry>
+                <entry>Good Plus</entry>
+                <entry>$595.00</entry>
+              </row>
+              <row>
+                <entry>DacEasy</entry>
+                <entry>Good Plus</entry>
+                <entry>$499.99</entry>
+              </row>
+              <row>
+                <entry>Bottom Line Accounting</entry>
+                <entry>Good</entry>
+                <entry>$399.00</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>2009 Accounting Software Review Product Comparisons</caption>
+</table>
+        <para id="id1170530213134">As you can see, there is a wide range of prices, from USD 29.99 to USD 1499.00, and the package which sells for USD 29.99 is rated the same as the one that sells for USD 1499.00. Clearly, this shows that some analysis is necessary before settling on a specific accounting software package. You may need to engage the service of a professional accountant or, at least, a colleague who has studied accounting and accounting software packages to help you make the right selection for your business. Here is some good advice from the Accounting Software Review 2009 website:</para>
+        <para id="id1170520770992"><quote id="id1170520770992_quote" display="block">With all the accounting software available, it's hard to know which program is the best fit for your business finances. Below are the criteria TopTenREVIEWS used to evaluate small business accounting software.</quote>
+          <quote id="eip-id1165260857516"><list id="eip-id1165259248926"><item><emphasis effect="bold">Ease of Use –</emphasis> We look for finance software that is simple to install, set up, and understand. The best accounting programs make navigating intuitive, so you never have to guess where you are or what to do next. </item>
+          <item><emphasis effect="bold">Accounting Modules –</emphasis> Accounting modules are categories required to successfully maintain your business finances (such as Accounts Payable and Accounts Receivable). Does the accounting software have all the basic accounting modules you'll need? All the bells and whistles of the software aren't relevant if the basics aren't covered. Will the finance software grow with your company? We look for accounting software that lets you grow and customize your system to fit your individual business needs. </item>
+          <item><emphasis effect="bold">Reporting Categories – </emphasis>Consider accounting software that offers a wide range of reports. You should be able to print at least one kind of report for every module. Reporting features are often built into each section, but it's better if you can create reports from anywhere in the program. Customizable reports save you time; look for accounting software that will let you set your own criteria. With detailed financial reporting, you can analyze what is and isn't working for your business.</item>
+          <item><emphasis effect="bold">Help Documentation –</emphasis> Look for email and phone support; toll-free phone and live support, online help is a bonus. Online, we look for indexed help topics that can be searched easily. You'll want quick access for both technical help and accounting help for your software. Accounting software companies should have qualified people (both technicians and accountants) answering these tough questions.</item></list></quote>
+          <quote id="id1170534099173_quote" display="block">With the right accounting software, you will be able to manage your company books quickly and easily”. (<link document="m35496" target-id="id1170675005561"/>)</quote>
+        </para>
+      </section>
+  </content>
+</document>

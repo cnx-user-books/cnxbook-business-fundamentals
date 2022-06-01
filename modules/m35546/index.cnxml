@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The industry environment</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35546</md:content-id>
+  <md:title>The industry environment</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> James W Bronson (The University of Wisconsin, USA)</para>
+<para><emphasis>Contributors:</emphasis> Kellie Goldfien, Ryan Wolford</para>
+<para><emphasis>Reviewer:</emphasis> William A Drago, (University of Wisconsin, USA)</para></md:abstract>
+  <md:uuid>5025b947-b0e3-4111-a55e-3f916503bea9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   
+      <section id="id1165787826799">
+        <title>What is an industry?</title>
+        <para id="id1165785458558">The term <emphasis effect="bold">industry</emphasis> loosely refers to any group of businesses that share a particular type of commercial enterprise. This grouping of firms is also likely to generate profits in a similar manner, or at least share related activities. In the business world, it is common to hear managers discuss particular industries as a whole, for example, ‘the automobile industry’ or ‘the magazine industry’. </para>
+        <para id="id1165788215080">In a more formal sense, the North American Industry Classification System (NAICS, <link url="http://www.census.gov/epcd/www/naics.html">http://www.census.gov/epcd/www/naics.html</link>) defines hundreds of different industries. The NAICS is a commonly used system to group businesses. The NAICS typically identifies an industry with a six digit code, with each additional digit narrowing the definition of the industry. Similar classification systems include the International Standard Industrial Classification (ISIC, <link url="http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=17">http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=17</link>) from the United Nations and the General Industrial Classification of Economic Activities with the European Communities (NACE, <link url="http://www.ltck.se/PrjY1/nacekod/nacecode.htm">http://www.ltck.se/PrjY1/nacekod/nacecode.htm</link>). Data is gathered and reported for the industry based on the six digit code. Data typically reported includes demographic measures for the industry including employment, number of business, and total sales. Data is not reported for individual firms. Many different agencies and businesses use these categories for statistical studies, business comparisons, and benchmarks. Locating the industry for a business through the NAICS or similar classification scheme can be a useful exercise in gathering competitive intelligence. For example, the average number of employees and sales of firms in the industry can be found and from this information critical benchmarks like sales per employee may be calculated.</para>
+      </section>
+      <section id="id5344868">
+        <title>Industry structural characteristics</title>
+        <para id="id3938271">Industries have specific structures and the entrepreneur needs to learn and understand the significance of the structure for his/her industry. Industry structure includes size measures, e.g. industry sales, number of firms, and number of employees. Rate of growth and the industry growth curve are an important element of industry structure as is the extent to which an industry is unionized. There may be many more elements of industry structure. Industry structure is one determinant of competition. For example, competition in an industry comprised solely of union employers will be quite different than in an industry comprised of both union and non-union firms. Competition is also affected by the extent to which the government is a large buyer, or perhaps the only buyer, as in the defense industry.</para>
+      </section>
+      <section id="id5238563">
+        <title>Concept of strategic groups</title>
+        <para id="id1165787790648">Strategic groups exist within most industries. A <emphasis effect="bold">strategic group</emphasis> is a set of firms within an industry that employ similar practices in order to achieve comparable goals. An example of a strategic group within the food service industry would be fast-food chains. The fast-food chains differentiate themselves from other restaurants by offering quick-service, popular foods, and relatively low prices. Within the same industry we can find a number of other strategic groups such as family restaurants, vegetarian restaurants, and coffee houses. Although fast-food chains and vegetarian restaurants both accomplish the same purpose, i.e. providing a prepared meal, their target audience, their methods of marketing, and other methods of doing business are decidedly different. Competition between firms within a strategic group is more direct than competition between firms located in different strategic groups.</para>
+        <para id="id1165788094637">Competitive rivalry amongst firms in the same strategic group can be very intense, especially since they are usually competing for the same customers. Consider Pepsi and Coca-Cola versus fruit juice. Pepsi and Coca-Cola are competing for cola drinkers, and they market their products competitively against each other. Although the customer could just as easily have a glass of fruit juice, Pepsi and Coca-Cola are not aggressively marketing against the juice industry. The fruit juice customer has different wants and needs than the cola customer, so the two strategic groups do not compete directly for the same clientele. </para>
+      </section>
+      <section id="id5185301"><title>Key success factors in an industry</title><para id="id4101367"><emphasis effect="bold">Key success factors (KSF)</emphasis> are areas of critical performance necessary for success in a specific industry. A firm cannot expect to be competitive in its industry without an understanding of the industry’s key success factors. Key success factors are a function of both customer needs and competitive pressures. KSFs are typically identified by completing a list in response to two questions:</para>
+        <list id="id5219323" list-type="enumerated" number-style="arabic">
+          <item>What do customers in my industry want?</item>
+          <item>How do successful firms survive the industry’s competitive pressures?</item>
+        </list>
+        <table id="id4872811" summary="The key success factors in a grocery store.">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c2">Grocery Store KSF</entry>
+              </row>
+              <row>
+                <entry>Customer</entry>
+                <entry>Competition</entry>
+              </row>
+              <row>
+                <entry>Cleanliness</entry>
+                <entry>Bargaining power over suppliers</entry>
+              </row>
+              <row>
+                <entry>Freshness</entry>
+                <entry>Number of local competitors</entry>
+              </row>
+              <row>
+                <entry>Selection, including take-out</entry>
+                <entry>Location relative to competitors</entry>
+              </row>
+              <row>
+                <entry>Competitive prices</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Location &amp; parking</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Service &amp; pleasant experience</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5233997">The entrepreneur must be aware of the key success factors (KSF) in his/her industry. Resources should be directed to activities that increase competitiveness on KSF and not wasted on activities that are not critical to KSFs.</para>
+        <exercise id="id1165791018859">
+          <problem id="oo-id1165788021126">
+            <para id="id8697022">Since we all have decided preferences, it follows that a table of KSFs constructed by one person is likely to omit, or overstate, an industry’s KSFs. Select a common type of business-industry with which you have some familiarity, e.g. floral arrangements, coffee house, or bicycle sales. </para>
+          </problem>
+        </exercise>
+        <exercise id="id1165788006206">
+          <problem id="oo-id3049750">
+            <para id="id1165790675489">Construct a table of Key Success Factors by asking yourself the questions: What do customers in my business-industry want? How do successful firms survive the industry’s competitive pressures? </para>
+          </problem>
+        </exercise>
+        <exercise id="id5087285">
+          <problem id="oo-id1165788874470">
+            <para id="id8694374">Now ask the questions of two other people who have been customers of the business-industry. Are you getting agreement on your list of KSFs, or will you need to ask more people for their opinions to establish a clear list of KSFs?</para>
+          </problem>
+        </exercise>
+      </section>
+   
+  </content>
+</document>

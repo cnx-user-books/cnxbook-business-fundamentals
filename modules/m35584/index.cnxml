@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Evaluating new products</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35584</md:content-id>
+  <md:title>Evaluating new products</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> George M Zinkhan, Anastasia Thyroff, Anja Rempel, and Hongbum Kim (The University of Georgia,
+USA)</para>
+<para>
+<emphasis>Reviewer:</emphasis> Bettina Cornwell (University of Michigan, USA)</para></md:abstract>
+  <md:uuid>f89ee9b6-2545-4520-978a-216ea265caf6</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  
+      <para id="id1974619">When an organization adds a new product, there is both potential benefit and risk. As a result, organizations implement formal systems for evaluating new products. In particular, there is a concerted effort to forecast projected sales and thus reduce some of the financial risk. While evaluating new products, there is also the possibility of generating innovative ideas that can later go through the testing process. Idea generation is an essential part of marketing strategy and is critical to the success of a company. When such product ideas move further along in the process, a key step is to create a prototype or working version of the new offering. Again, market testing is crucial at every stage in the development process.</para>
+      <para id="id1168051395175">Here, we briefly discuss three main alternatives for evaluating new additions to the product line: laboratory tests, expert evaluations, and customer evaluations (Urban and Hauser 1993). With respect to customer evaluations, we distinguish between central-location tests and home-use tests (Crask, Fox and Stout 1995).</para>
+      <para id="id1168051364710">The laboratory tests provide information regarding the performance of new products in extreme settings. For example, a new copy machine can be tested at various work loads, such as numbers of copies and speed per minute to test the relationship between workload and paper jam. A disadvantage for the laboratory test is that it may not fully represent real-life conditions. Consumers are famous for findings new ways to abuse products, and they are not such skillful operators as lab testers. </para>
+      <para id="id1168052647762">Expert evaluators can be used at all phases of the new product development process. For instance, experts can be used to estimate whether or not a new product idea will be accepted in the marketplace before a prototype even exists. Experts also play a role later in the process. For instance, a new passenger car can be tested by a car expert, who provides a (published) review that covers topics such as: handling, comfort, ease of use, styling, acceleration, miles per gallon, and so forth. Expert evaluation is relatively low in cost, as just a few experts can provide estimates about the behaviors of many customers. At the same time, the small number of experts on each project may lead to biased forecasts.</para>
+      <para id="id1168055396816">In later stages of development, customers can be recruited to evaluate prototypes. There is an attempt to test new products under conditions that are relatively close to actual use. Here, we distinguish between two types of customer evaluations: central-location evaluation and home-use evaluation.</para>
+      <para id="id1168055493475">Central-location tests are conducted at designated locations such as shopping malls, sporting events, and college campuses. Participants are recruited by email, telephone, and print ads. Types of central-location tests include:</para>
+      <list id="id1168052174322" list-type="bulleted">
+        <item>Discrimination test: conducted to determine the percentage of customers who can distinguish between product alternatives.</item>
+        <item>Paired comparison test: respondents evaluate a pair of options and then state their preference between the options.</item>
+        <item>Round robin test: all possible product pairs are evaluated, using a format where consumers compare two products at a time.</item>
+        <item>Blind test: a new product is compared to existing products.</item>
+      </list>
+      <para id="id1168055133063">Under the home-use test, customers are invited to use a new product as part of their everyday life. The home use test is usually more expensive than the central-location evaluation, but it is more realistic. Popular types of home-use tests include:</para>
+      <list id="id1168052662699" list-type="bulleted">
+        <item>Paired comparison test: participants evaluate two products in normal usage situation and provide evaluations for both products.</item>
+        <item>Single-product home-use test (monadic test): participants evaluate one product after using that product for a specified time period. </item>
+        <item>Proto-monadic home-use tests: a hybrid design where participants are asked to use a certain product for a specific time period and then evaluate. Next, participants follow a similar procedure for a second test product.</item>
+      </list>
+  
+  </content>
+</document>

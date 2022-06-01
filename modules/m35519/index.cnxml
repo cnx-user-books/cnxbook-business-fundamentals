@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter Summary</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35519</md:content-id>
+  <md:title>Chapter Summary</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA) and Garry Woods
+(CommerceNext LLC, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Richard A Scudder (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>acfc6df4-e73b-410e-9a2f-dab0cc647f74</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1169441661587">Many people use Information Systems and Information Technology as if they meant the same thing. They are different, and it is important for you to understand the difference between them. As we illustrated in <link target-id="id8321329" document="m34230"/>, an Information System is comprised of two sub-systems, a Social sub-system and a Technical sub-system. The Social subsystem has two parts: People and Organizational Structure. The Technical subsystem also has two parts: technology and Business processes. The reason it is important to understand this is that all four parts of an Information system must work effectively if the system is to meet the needs for which it was designed and installed. </para>
+    <para id="id1169441292303">Information systems can be very powerful tools to help you run your organization. On the other hand, in a start-up, be sure you need the support of information systems before you invest in them. It may be that you can handle your operations manually for a time and avoid the cost and time investing in a computer-based IS requires. </para>
+    <para id="id1169443560008">If you do decide to move forward with computer-based information systems it is wise to develop a plan first, and make sure you are proceeding in an orderly manner. There are three general approaches to developing an IS plan. You will also find that you have many options available for hardware and software, and the options can vary widely in initial purchase price and the kind of support provided by the vendor. If you see value in having a website there are some generally-accepted principles you should follow to make your website effective.</para>
+    <para id="id1169440560176">Many organizations have found ways to use IS for competitive advantage. Michael Porter’s frameworks, the five forces model, the three generic strategies, and value chain have proven to be useful tools in coming up with ideas for innovative information systems. </para>
+    <para id="id1169441142411">Finally, when an organization has valuable information stored in computers, it is exposed to risks from errors and from various internal and external threats. It is important for managers to evaluate the risks and come up with cost-effective measures to be sure the organization is adequately protected from loss or damage to valuable information.</para>
+    
+  </content>
+</document>

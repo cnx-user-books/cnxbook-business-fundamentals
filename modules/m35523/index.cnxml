@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Using Information Technology Competitively</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35523</md:content-id>
+  <md:title>Using Information Technology Competitively</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA) and Garry Woods
+(CommerceNext LLC, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Richard A Scudder (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>472780f3-a97d-44d8-867b-069c7c51a4a8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171856224703">
+      <title>Competitive advantage</title>
+      <para id="id1171874356853">When you are starting your business, very likely you will just be interested in substituting computer-based information systems for keeping the basic records of your business and preparing the reports you need to be an effective decision-maker. As your business grows, however, you should start to think of the potential benefit of going beyond the basics, as larger companies do, and look for ways to use information systems for competitive advantage. Many people use the term “technology-enabled innovation” to describe this process. Since it is never too early for you to start thinking about such innovation, we’ll cover the topic now.</para>
+      <para id="id1171885545282">Just about all businesses have competitors and customers have choices as to which businesses they decide to patronize. For example, you, as a customer, may have several restaurants to choose from if you want to buy a meal. Each restaurant, therefore, has other restaurants as competitors. A restaurant will try to offer its customers a better meal at a better price so that their business is successful in comparison with the competition. This is what is meant by gaining a competitive advantage. Of course, if a restaurant is the only one in a small town, its owner does not have to worry so much about competition (unless someone else decides to open a restaurant and compete for its customers. Businesses that can gain an advantage over their competitors are the ones who will be successful and, as we saw in <link document=""/> Chapter 4, most small businesses that start up are doomed to fail. So, competitive advantage is important. </para>
+    </section>
+    <section id="id1171885793017">
+      <title>Porter and competitive advantage</title>
+      <para id="id1171869163938">In <link document=""/>Chapter 3, you were introduced to the ideas of Professor Michael Porter, whose ideas on how to achieve a competitive advantage, first introduced in the 1980’s<footnote id="eip-id1168194005418">The information on Michael Porter needs to be cited.</footnote> have stood the test of time. Recall that Porter’s model consisted of three main categories:</para>
+      <list id="id1171860423446" list-type="bulleted">
+        <item>The five Forces Model</item>
+        <item>Three Generic Strategies</item>
+        <item>The Value Chain</item>
+      </list>
+      <para id="id1171870435233">In this section we will discuss how the creative use of information technology and communications technologies (IS) can help organizations gain a competitive advantage. These ideas were first expressed in two separate Harvard Business Review articles<footnote id="eip-id1169720759579">Cite McFarlane and Porter/Millar.</footnote>. </para>
+      <para id="id1171849619792">Use IS to alter the five forces in your favor. The five forces are illustrated in <link target-id="fs-id1171797049319"/>:</para>
+     <figure id="fs-id1171797049319"><label>Exhibit</label><media id="fs-id1171803396974" alt="Bargaining power of suppliers, bargaining power of customers, threat of new entrants, and threat of substitute products, all pointing at the box, competitive rivalry within an industry."><image mime-type="image/png" src="../../media/case1.png" width="425"/></media><caption>Porter’s Five Forces Model Source<newline/>
+Source:<link url="http://en.wikipedia.org/wiki/Porter_5_forces_analysis">http://en.wikipedia.org/wiki/Porter_5_forces_analysis</link></caption></figure> 
+      
+      <para id="id1171873110081">Buyer power can be reduced by using IS in ways that tend to restrict buyers’ choices. A good example is the frequent flyer programs that are offered by most commercial airlines around the world. When they enroll in the program, air travelers are awarded “miles” for every flight they take on, for example, British Airways. Their accumulated miles are maintained by a computer system. Travelers can obtain tickets for free flights once as certain number of miles has been accumulated in their account. What this does is to encourage travelers to always use the same airline so they can qualify for awards more quickly. Frequent flyer programs, of course, have to keep track of a lot of information on the activities of thousands of travelers and would not be possible to manage without computer systems. An airline without a frequent flyer program is at a competitive disadvantage to airlines which have them.</para>
+      <para id="id6818603">Supplier power is high when a business must rely on just a few suppliers. For example, if there is just one store in a town which stocks office supplies, businesses have nowhere else to buy supplies they need and may be forced to higher than normal prices. On the other hand, if a local business is connected to the Internet, it can choose from many other suppliers and possible find cheaper prices, even when the cost of shipping is considered.</para>
+      <para id="id1171871843661">The threat of new entrants can be reduced when IS is used to erect “entry barriers”. Entry barriers are offerings that a business must make available to its customers if it expects to do business in a certain sector simply because most or all of its competitors offer a certain feature to their customers. An example is ATM machines offered by banks. ATM machines would not be possible without the use of computers and communications networks. If you had to choose between a bank that offered ATM machines and one that did not, which one would you choose? Most likely the one with ATM machines. ATM machines are this a barrier to enter the banking sector in a particular locale.</para>
+      <para id="id1171880977056">The threat of substitute products can usually be reduced by using IS to bind customers more closely to a business and create what is called “switching costs”. This means that the IS systems offered by a business are so appreciated by the customer that customers are reluctant to switch to a substitute product. For example, there are many free open content software products that equally competitive with the costly brands. Zoho, Google Docs, Thinkfree, are examples. One of the reasons many PC users don’t switch to them is that they would have to learn how to use a new package. Even though the free packages are easy to learn, there is a switching cost involved that binds users to Microsoft Office: The time it would take to learn even a relatively simple package is enough of an obstacle to many users that they conclude that switching is not worth the effort.</para>
+      <para id="id1171851216534">The Intensity of Intra-Industry Competition can often be increased by IS-enabled innovations. For example, the global reach of the Internet means that competitors for many products and services can be located anywhere in the world. For example, tax accounting specialists may now find themselves competing with accounting specialists in low-cost countries. This is becoming a common practice as companies conclude that IS makes it possible for many forms of knowledge work to be performed anywhere in the world.</para>
+      <para id="id1171884618327">Use IS to reinforce your basic strategic positioning. </para>
+      <para id="id4487384">
+        <figure id="id1171865535647"><label>Exhibit</label>
+<media id="id1171865535647_media" alt="Thre boxes. Two small boxes on the bottom, labeled from left to right, differentiation strategy and cost leadership. Above the boxes is a larger box the width of the combination of the two lower boxes. This box is labeled segmentation strategy. Below the differentiation strategy box is the label, uniqueness competency. Below cost leadership is the label, low cost competency. To the left of the smaller boxes is the label, broad market scope. To the left of the segmentation strategy box is the label, narrow market scope.">
+            <image mime-type="image/png" src="../../media/graphics2.png" id="id1171865535647__onlineimage" height="414" width="517"/>
+          </media>
+          
+        <caption>Porter's three generic strategies
+<newline/>
+Source: <link url="http://en.wikipedia.org/wiki/Porter_generic_strategies">http://en.wikipedia.org/wiki/Porter_generic_strategies</link>
+          </caption></figure>
+      </para>
+      <para id="id6933610">Porter suggests that a business cannot be all things to all people. It must choose between three generic strategies As illustrated in <link target-id="id1171865535647"/>, a business can choose to be a cost leader, it can pursue a differentiated strategy for which consumers are willing to pay more, or it can target a segment of the market with either a low cost or a differentiated strategy. For example, if we consider brands of automobiles, the Tata targets a broad market for low-priced cars, and the Subaru targets a broad differentiated market for low-priced all wheel drive cars. The Mazda Miata targets a segmented market for low-priced sports cars, while Rolls Royce targets a segmented (high priced) market for sedans. </para>
+      
+      <para id="id1171874278121">Information systems can assist a business in implementing one of Porter’s three generic strategies by, for example, using IS to create operational efficiencies, thus lowering manufacturing costs. IS can create a differentiated model by, for example, having a website that permits customers to design a personalized version of an automobile and order it online, much the same way that we can buy personal computers online. </para>
+      <figure id="id1171861712422"><label>Exhibit</label>
+<media id="id1171861712422_media" alt="The value chain. Four grey boxes, labeled from top to bottom, firm infrastructure, human resource management, technology development, and procurement. These boxes are classified as support activities. Below them are five black boxes, labeled from left to right, inbound logistics, operations, outbound logistics, marketing and sales, and service. These boxes are classified as primary activities. Behind the shapes is a triangular backdrop, classified as gross sales.">
+          <image mime-type="image/png" src="../../media/graphics3.png" id="id1171861712422__onlineimage" height="378" width="599"/>
+        </media>
+        
+      <caption>Porter's value chain <newline/>
+Source: <link url="http://kookyplan.pbworks.com/f/ValueChain.png">http://kookyplan.pbworks.com/f/ValueChain.png</link></caption></figure>
+      
+      <para id="id1171870248133">As discussed in <link document="">Chapter 3</link>, the Value Chain is a graphical representation of the processes (or activities) involved in most organizations. Analysts use the value chain framework to look for ways to streamline costly activities or add value to certain activities through the use of IS. As just one example, an organization could use IS to outsource a call center service to a lower cost location or, it could use IS to provide a well-designed website to offer a differentiated experience to customers who need to contact the organization, and embody a personalized call center service for issues that cannot be resolved by the customer just by using website features. </para>
+    </section>
+    <section id="id1171869334403">
+      <title>Identify your information systems needs</title>
+      <para id="id1171852031856">It is almost always the case that there are insufficient resources for an organization to take advantage of all of its opportunities to use IS to obtain business benefits. Such resources can be in the form of personnel in an internal IS Department or cash to hire outside consultants or both. Because of this, it is important that organizations be sure they are using their scares resources on IS projects that have the greatest value to the organization. A time-tested way of doing this is to have a process for setting IS development priorities that are consistent with and aligned with organizational priorities. In the literature, this is typically called “Strategic alignment”. There are three general approaches that organizations take to setting priorities for Information Systems projects. (Some practitioners say “there is no such thing as an IS project; there are only business projects. Such a perspective emphasizes the importance of obtaining business benefits from an investment in IS). The three general approaches to setting priorities (also known as developing a strategic plan for the IS function) are:</para>
+      <list id="id2633660" list-type="enumerated" number-style="arabic">
+        <item>Have the IS Department set Priorities</item>
+        <item>Have a Cross-functional Steering Committee set Priorities</item>
+        <item>Conduct a Systems Planning Project</item>
+      </list>
+      <para id="id1171855515489">Each of these approaches is discussed in more detail in the following paragraphs.</para>
+      <section id="id1171881884341">
+        <title>Have the IS department set priorities</title>
+        <para id="id1171872033942">The person in charge of the IS functions, particularly in larger organizations is called the Chief Information Officer or CIO. The CIO is responsible for new system development, systems operations, and maintenance of existing systems. Ideally, the CIO has a solid understanding of the organization’s overall strategy and tactics as well as a good understanding of IS issues. A competent CIO should be able, therefore, to do a good job of setting priorities for the IS function. All too often, however, the CIO is more comfortable with technical issues and undertakes projects that are interesting from a technical standpoint, but offer little in the way of business benefits. On the other hand, some CIOs have an insufficient command of technical issues and therefore overlook opportunities to use IS to make their organization more efficient, effective, and innovative. Finding a person with the right blend of business and technical savvy has proven to be difficult, and, thus, CIO has come to be known, in some circles as “Career is Over”. </para>
+      </section>
+      <section id="id1171856787276">
+        <title>Have a cross-functional steering committee set priorities</title>
+        <para id="id1171889049613">Many organizations use a cross-functional steering committee discuss and agree on overall priorities for the IS function. All major areas of the company are represented, including, for example, accounting, finance, human resources, operations, and sales and marketing. Having all areas involved provides some assurance that the organizations needs and opportunities are addressed in the proper priority sequence. The shortcomings of this approach, in practice, however is that some heads of areas may not be as supportive of IS as they should be, and the process can become complicated when organizational politics intervene. </para>
+        <para id="id4114399">For example, the organization’s best opportunity for obtaining business benefits could lie with a new information system to track how well sales are performing in order to be sure that customer demands will be met, but this opportunity is not understood or appreciated by the sales manager. Without the support from the sales manager and IS project in his or her area would be unlikely to succeed, so the organization’s best opportunity is lost. On the other hand, it could be the case that the operations manager is has a strong and persuasive personality, and by force of argument in steering committee meetings is able to convince other s that operations projects should get the highest priority. </para>
+      </section>
+      <section id="id1171864259048">
+        <title>Develop a formal plan for information systems</title>
+        <para id="id1171879381900">Even small companies will get benefit from taking a relatively short to develop a formal plan for the information systems function. In <link document=""/> Chapter 1, and elsewhere in this book, we have emphasized the value of having a formal business plan to guide the organization. Many organizations take their business plan down another level and have formal plans for individual departments, such as sales and marketing, operations, and human resources. It is particularly important to have a written plan for the Information Systems function as top management must be assured that the benefits of IS are being applied in accordance with the overall goals of the organization. IS professionals call the end result of an IS planning process “strategic alignment”, which simply means that the strategic goals of the IS function are aligned with the strategic goals of the organization.</para>
+        <para id="id1171882319940">In a very small organization an information systems plan can be developed by one or two individuals. In larger organizations, it is usually developed by a project team, sometimes with the assistance of outside consultants. The important thing is that resources devoted to developing an information systems plan have knowledge of current and emerging information and communications technologies as well as a solid understanding of the organization’s strategic plan. Development of a formal plan usually involves interviewing managers in each organizational unit to obtain their perspectives on issues such as: </para>
+        <list id="id1171883562358" list-type="bulleted">
+          <item>The overall strategic plan or direction of the organization</item>
+          <item>Plans of individual organizational units developed in support of the organization’s plan. </item>
+          <item>Industry trends, competitors’ strategies and common practices.</item>
+          <item>Legal and regulatory record-keeping and reporting requirements.</item>
+          <item>Current problems and opportunities with operational processes.</item>
+          <item>Information needs for planning and decision-making.</item>
+        </list>
+        <para id="id1171875024681">Identifying business entities (e.g. customers, products, employees, etc) and data (i.e. attributes) required to describe each entity.</para>
+        <para id="id1171887984533">Once this is done, possible IS projects can be determined by identifying natural groupings of process and data and/or unmet information needs of managers. Possible projects must then be ranked in priority sequence. </para>
+        <para id="id1171871575086">Technical issues must be considered next, because the several applications that the organization eventually uses often share a common technical platform (e.g. PCs, networked PCs, etc). As we discussed earlier in this chapter, another option is to adopt the “software as a service” (SaaS) approach when it is available and appropriate. Technical issues may cause a reassessment of the priority sequence of possible projects. For example, it may be easier or more logical to install the organization’s first application which uses database management software on a smaller project to let personnel get familiar with the software before moving on to a larger, more risky project. More details on current technical concept and issues are available in Global Text’s Information Systems Text, Chapter 7, available at <link url="http://docs.globaltext.terry.uga.edu:8095/anonymous/webdav/Information%20Systems/Information%20Systems.pdf">http://docs.globaltext.terry.uga.edu:8095/anonymous/webdav/Information%20Systems/Information%20Systems.pdf</link> You may also like to scan the table of contents of the IS Text for additional readings as it covers many of the topics we discuss here in much greater detail.</para>
+        <para id="id1171857498913">Once a plan is agreed, it is implemented. Most organizations find it useful to update the plan at least yearly as business and technical issues can change quickly.</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Special topic: just-in-time and lean systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35448</md:content-id>
+  <md:title>Special topic: just-in-time and lean systems</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Dr John Burnett (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Editor:</emphasis> Michael J Pesch (St Cloud University, USA)
+Reviewer: Ronald F Farina (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>bbb730ed-34b5-40f9-b75b-11b3b727d142</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1164736730473">Just-in-time (JIT) is a management philosophy that originated in the 1970s. Taiichi Ohno is credited with developing JIT and perfected it for Toyota’s manufacturing plants in Japan. The main goal of JIT is to eliminate anything that does not add value from the customer’s perspective. Non-value-added activities are referred to as “waste” in JIT. Examples of waste include:</para>
+    <list id="id1164738095010" list-type="bulleted">
+      <item>overproduction beyond what is needed to satisfy immediate demand</item>
+      <item>waiting time (work-in-process, customer waiting)</item>
+      <item>unnecessary transportation (material handling, customer travel through a facility, etc.)</item>
+      <item>processing waste (yield rates, start-up costs)</item>
+      <item>inventory storage waste (space, deterioration, obsolescence, etc.)</item>
+      <item>unnecessary motion and activity (waste in work techniques, etc.)</item>
+      <item>waste from product and service defects (rework, scrap, warranty, etc.)</item>
+    </list>
+    <para id="id1164745232891">There are three essential elements that contribute to the successful practice of JIT: </para>
+    <list id="id3128126" list-type="bulleted">
+      <item>JIT manufacturing principles </item>
+      <item>Total Quality Management (TQM)</item>
+      <item>employee empowerment </item>
+    </list>
+    <section id="id1442947">
+      <title>JIT manufacturing principles</title>
+      <para id="id1164738626752">In a manufacturing setting, there are six major ways to pursue JIT goals: inventory reduction to expose waste, use of a “demand-pull” production system, quick setups to reduce lot sizes, uniform plant loading, flexible resources, and cellular flow layouts.</para>
+      <section id="id1164755319601">
+        <title>Inventory reduction to expose waste</title>
+        <para id="id1164736260371">Inventory covers up a lot of wasteful practices (poor equipment, weak vendors, bad quality, long setup times, etc.). By gradually lowering inventory, the weaknesses of the production system can be revealed and addressed one by one. Machines can be replaced or better maintained, vendors quality and delivery can be improved, machine setup procedures can be streamlined, quality practices can be implemented, and labor and equipment can be laid out more efficiently. These improvements permit the organization to operate with less inventory, less costs, and faster response times in meeting customer needs.</para>
+      </section>
+      <section id="id1164738726165">
+        <title>Demand-pull production system</title>
+        <para id="id1164740232421">The traditional approach to manufacturing management promotes a strong focus on machine and labor utilization. The view was that if managers make sure that workers and machines are always busy, then surely the factory will be productive and efficient. This approach is called the “push” system of manufacturing, where raw material and work-in-process is continuously pushed through the factory in the pursuit of high utilization. The problem with this approach is that it usually produces high levels of inventories, long lead times, overtime costs, high levels of potential rework, and workers who are competing with one another rather than working cooperatively.</para>
+        <para id="id1164736400596">In contrast to the push system, JIT espouses a “demand-pull” system that operates on the rule that work should flow to a work center only if that work center needs more work. If a work center is already occupied with work activity, the upstream work center should stop production until the downstream work center communicates a need for more material. The emphasis on maintaining high utilization is removed in a JIT environment. The focus of a JIT environment is on addressing the challenges that affect the overall effectiveness of the factory (setup time reduction, quality improvement, enhanced production techniques, waste elimination, etc.) in meeting its strategic goals, rather than allowing excess inventory to cover up inefficiencies that reduce the factory’s competitiveness.</para>
+      </section>
+      <section id="id1164742162072">
+        <title>Quick setups to reduce lot sizes</title>
+        <para id="id1164739302414">The longer it takes, and the more expensive it is to setup equipment and labor to produce an item, the greater the quantity of items that have to be produced in a given production run. Traditional production management philosophy promoted the notion that long production runs of the same item were the key to driving down unit costs. The problem was that large production runs created large quantities of WIP and finished goods inventory that far exceeded the demand. These items would consequently cause high levels of inventory costs, long lead times, high potential rework, low flexibility in responding to customer needs, etc. </para>
+        <para id="id1164745260393">Driving down setup costs and setup times are key to dramatically improving factory competitiveness in a JIT environment. In the 1980s, the 3M company converted a factory that made a few adhesive products in long production runs into a factory that made over 500 adhesive products in small production runs. To keep unit production costs under control, 3M studied the setups on its coating machines. Since the cost of chemical waste disposal was a major part of the cost of changing over a coating machine to make another product, 3M shortened the length of hoses that needed purging and redesigned the shape of the adhesive solution holding pan on the coating machine to be shallower. 3M also used quick-connect devices, disposable filters, and work teams to speed up setups. The result was that 3M could maintain low unit costs on its coating machines while producing small lots of hundreds of products to meet market demand quickly.</para>
+      </section>
+      <section id="id1164736876166">
+        <title>Uniform plant loading</title>
+        <para id="id1164745163134">The successful practice of JIT means having the right quantities of the right products in the right place at the right time. Driving down setup times enables the company to produce the product mix and quantities that are demanded in the present time period. </para>
+      </section>
+      <section id="id1164739240288">
+        <title>Flexible resources</title>
+        <para id="id6874770">The enemy of JIT is uncertainty. A JIT environment thrives on predictability in customer demand, production processes, suppliers, and workers. Of course, uncertainty cannot be completely eliminated in most organizational environments. </para>
+        <para id="id1164736895046">The defense against uncertainty that cannot be driven out is to implement flexible resources that can adapt easily to changing circumstances. General-purpose, moveable equipment that can fulfill a wide variety of production requirements is one way to improve flexibility. For example, drilling machines with quick-change bits which can be wheeled into position to form new work cells allows the factory to maximize efficiency while producing exactly what is needed to satisfy immediate demand. Another example is Toyota’s use of paint canisters that attach to paint sprayers. Any car can be painted any color without having to purge hoses in switching from one color to another.</para>
+        <para id="id1164745198708">Multifunctional workers are another way to bring flexibility to the work environment. At Honeywell’s heating and cooling controls plant, workers are trained to operate all the machines on their work line. The flexibility that comes from multifunctional workers changes the nature of how work gets done. Instead of workers being trained on one machine and working independently of one another, multifunctional workers have a “big picture” view of the production line, where every worker understands all aspects of the line and how to work together to meet quality and schedule goals regardless of the circumstances.</para>
+      </section>
+      <section id="id1164746789968">
+        <title>Line/cellular flow layouts</title>
+        <para id="id2430072">Earlier in this chapter, we described the efficiencies that repetitive process layouts provide. Repetitive process layouts are perfectly suited for driving out non-value-added activities and transitioning to a JIT environment. Intermittent layouts feature dozens or even hundreds of different paths through the facility. They are filled with complexity, uncertainty, and low visibility. Workers tend to have specialized skills, work independently of other departments, and have little sense of “ownership” of the products they work on. </para>
+        <para id="id1164739400403">In contrast, cell layouts promote JIT goals by featuring unidirectional product flows, high visibility, and fast throughput times. Workers with multifunctional skills are assigned to individual cells and have responsibility and control of the products they produce. Workers in a cell environment tend to have a greater sense of ownership and pride in their work because they have a “big picture” view of the product as it is converted from raw material to a finished good. This deeper understanding of the production process increases the opportunities for workers to contribute ideas for process improvements. </para>
+      </section>
+    </section>
+    <section id="id1164740384076">
+      <title>Total Quality Management</title>
+      <para id="id1164736659947">TQM was discussed in detail earlier. TQM goes hand in hand with the JIT philosophy because quality is a major source of uncertainty and non-value-added activities in an organization with poor quality practices. TQM promotes continuous improvement, doing it right the first time, designing quality into products and processes, and establishing an overall focus on prevention as the primary quality activity.</para>
+    </section>
+    <section id="id1164748136557">
+      <title>Employee empowerment</title>
+      <para id="id1164736693424">Front-line employees play a critical role in successful JIT practice. They work in partnership with management and each other in the continuous pursuit of excellence. There are several ways in which front-line employees contribute to JIT success:</para>
+      <list id="id1164736257731" list-type="bulleted">
+        <item>Employees work together in problem-solving teams to gather data and build consensus on how to improve work processes.</item>
+        <item>Employees are responsible for understanding the quality measures of their work and what they need to do to meet the needs of internal and external customers. </item>
+        <item>Each employee is empowered to take action to correct problems.</item>
+        <item>Employees have cross-functional skill sets that allow them to be assigned to areas which need help, and to help them adopt a broader (“big picture”) view of the production process. </item>
+        <item>Unlike a traditional “push” environment where line workers are relatively independent of one another in their work activities, JIT employees are connected by the “demand pull” discipline, where work is not produced unless the downstream work center needs it. Demand-pull promotes the inter-connectedness of workers.</item>
+        <item>Front-line employees are responsible for the basic maintenance of their machines. This helps employees have a better understanding of the condition of their equipment and its ability to meet quality and production requirements.</item>
+      </list>
+      <para id="id6874784">Management works with employees by being coaches and facilitators rather than authoritative supervisors. Managers are charged with hiring employees who can work in a proactive team environment, and provide the training and incentives to build a work culture that is focused on continuous improvement. </para>
+    </section>
+    <section id="id1164741836249">
+      <title>Conclusion: The evolution of JIT into “lean operations”</title>
+      <para id="id1164736727357">The JIT philosophy has evolved from a manufacturing-focused management approach to a set of management principles that can be applied to any organization. “Lean operations” is a term that is replacing JIT, especially in service environments. “Lean operations” captures the true essence and power of how a culture built around continuous improvement and the pursuit of value-added activities leads directly to competitive advantage in the marketplace. Lean operations is a management philosophy for any organization to achieve higher quality, increased productivity, improved delivery speed, greater responsiveness to changing markets, and increased customer satisfaction. </para>
+    </section>
+  </content>
+</document>

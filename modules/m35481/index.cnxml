@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Basic types of accounts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35481</md:content-id>
+  <md:title>Basic types of accounts</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Roger K Baer (CPA, LLC; and Former Partner, Arthur Andersen &amp; Co., USA)</para></md:abstract>
+  <md:uuid>3a4422dc-ee71-473d-8b60-d2d5c2f93088</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+      <para id="id1165886852310">The six basic types of accounts used in a typical accounting system, according to Wikipedia are: </para>
+      <list id="id1165886439936" list-type="bulleted">
+        <item>asset accounts</item>
+        <item>liability accounts</item>
+        <item>equity accounts</item>
+        <item>revenue or income accounts</item>
+        <item>expense accounts</item>
+        <item>contra accounts</item>
+      </list>
+      <para id="id1165889842987">Each type of account is discussed below (adapted from <link document="m35496" target-id="id1170672582212"/>). In subsequent sections of this chapter we will discuss how they are used in an accounting system.</para>
+      <list id="id1165886471943" list-type="bulleted">
+        <item><emphasis effect="bold">Asset accounts</emphasis>: represent the different types of economic resources owned by a business, common examples of asset accounts are cash, cash in bank, equipment, building, inventory, prepaid rent, goodwill, accounts receivable. Assets are usually broken down into three categories: Current assets, fixed assets, and intangible assets. Current assets are assets which could be converted to cash fairly quickly if necessary, certainly in less than a year. Examples of current assets include cash, cash in bank, inventory, prepaid rent, and accounts receivable. Fixed assets are assets of a more permanent nature like manufacturing equipment, buildings owned, and the like. Intangible assets, like goodwill, are monetary values assigned to intangibles like a brand name. It is typically used when accountants need to justify the purchase price of one company by another when the price cannot be justified by the monetary value of the purchased company’s assets minus liabilities. Intangible assets are beyond the scope of this chapter as they apply more to larger corporations than to a start-up business. </item>
+        <item><emphasis effect="bold">Liability accounts</emphasis>: represent the different types of economic obligations by a business, such as accounts payable, bank loan, bonds payable, accrued interest. Current liabilities are liabilities which are scheduled to be paid within a short period of time, usually less than a year. Examples of current liabilities include accounts payable to creditors, like suppliers, current amounts payable to employees (payroll) and interest due on short term loans. Long-term liabilities (sometimes called fixed liabilities) are liabilities of a more permanent nature like loans that are not due in the current year (long-term debt), and the like. </item>
+        <item><emphasis effect="bold">Equity accounts</emphasis>: represent the residual equity of a business (after deducting from assets all the liabilities). In the case of a start-up company totally financed by the founder, it is often called owner’s equity and represents the capital provided by the owner. If the company is a corporation and stock has been issued to the owner and to others, it is often called stockholders’ equity. </item>
+        <item><emphasis effect="bold">Revenue accounts or income</emphasis>: represent the company's gross income before expenses are deducted. Common examples include sales, service revenue, commissions, and interest income. </item>
+        <item><emphasis effect="bold">Expense accounts</emphasis>: represent the company's expenditures to enable itself to operate. Common examples are employee costs (payroll and fringe benefits), supplies, software, telephone bills, electricity and water, rentals, depreciation, bad debt, interest, and insurance. </item>
+        <item><emphasis effect="bold">Contra-accounts</emphasis>: from the term ciccia, meaning to deduct, these accounts are opposite to the other five above mentioned types of accounts. For instance, a contra-asset account is accumulated depreciation. This label represents deductions to a relatively permanent asset like a building. It accumulates an annual charge in recognition that a fixed asset like a building is not used up over the course of a year, but that it has a useful life measured in multiple years. Since in certain countries and under certain economic conditions real estate tends to steadily rise in price, perhaps a better example is a truck purchased for use in the business. Its value is more likely to continue to decrease over the years. Even though the market value of a building might increase rather than decrease over the years, accountants will still reduce its value by an annual depreciation charge each year. This is a good example of how financial accounting differs from managerial accounting from the owner’s perspective. Depreciation on a building or a truck reduces income for tax purposes in most countries, so it is to the owner’s advantage to reflect depreciation charges in the company’s accounting records. On the other hand, you can bet that the owner knows the true market value of the building when it comes time to sell it!</item>
+      </list>
+  </content>
+</document>

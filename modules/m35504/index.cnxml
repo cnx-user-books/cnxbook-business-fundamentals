@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Moving Forward With Information Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35504</md:content-id>
+  <md:title>Moving Forward With Information Systems</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA) and Garry Woods
+(CommerceNext LLC, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Richard A Scudder (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>e513123e-6995-46a6-b855-16a955656c48</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1169037937927">When you decide it is time to move forward with leveraging your organization with information systems, you will appreciate the effort spent on developing a systems plan. The plan will state the kind of hardware, software, and communications technologies you need, as well as the sectors of your organization which should receive your attention first.</para>
+    <para id="id2243800">Many small organizations begin operations with manual systems to keep track of their operations. They may have simple lists on paper for customer, vendor, and employee information and keep a set of accounting records on paper as well. This was the way business information was kept by all organizations, large and small, before the advent of computers. When PCs became available, their cost was such that the power of the computer was made available at low cost and so today, most organizations of any size have at least one PC or laptop. You may well start out with keeping records manually, but before too long, you will appreciate how much easier it is to keep records on a computer and how well-designed software applications can provide you with valuable information quickly, in many different ways, whenever you need it.</para>
+    <para id="id1169031728110">One issue you will need to address early is your sourcing options, i.e. where will you obtain your hardware, software, and human resources to help you acquire and manage the IS resources you need. In <link document=""/>Chapter 8, we discussed the ways that organizations partner with other organizations to perform essential business functions. It is very common for organizations to partner with another company to supply them with the specialized knowledge needed to acquire the right combination of hardware, software, and communications services to meet the needs of the organization. We will discuss these issues more later in this chapter when we discuss the ways organizations develop a systems plan. Suffice it to say at this point, that you will have many options:</para>
+    <para id="id1169026781990">For example:</para>
+    <list id="id1169028960420" list-type="bulleted">
+      <item>You can hire an IS professional if your needs require a full-time employee for manage your IS processes (and if you can afford it). Organizations that don’t need a full-time employee and do not have IS expertise available in-house on even a part-time basis typically make arrangements for part-time support from an IS consulting firm. Sometimes the consulting firm is a sole proprietorship.</item>
+      <item>You can acquire your own hardware (e.g. PCs) or you can buy time on another organization’s hardware to run your software applications. In developed economies, there are companies like Google and Amazon that offer so-called “cloud computing” services. They have developed so much expertise in managing server farms (i.e. data centers) that they now sell hardware capacity on demand to other companies. Similar options are available in other parts of the world. </item>
+      <item>As with hardware, you have similar options with software. Up until recently, if you needed a software package to do the accounting for your organization, for example, you had to buy a package and install it on your own computer. Now, many software packages can be accessed with a simple Internet connection and a web browser. The software package resides not on your computer, but on the vendor’s computer (or perhaps another computer “in the clouds”). </item>
+    </list>
+    <para id="id1169030594545">All of the options have their advantages and disadvantages and we discuss them later in this chapter.</para>
+    <para id="id1169026864885">While it is certainly possible for you to hire a programmer and have him or her develop the software programs your organizations need, it is rare when a start-up company needs to do this as there are so many software programs available for you to use (and some of them are free). In all likelihood, you will begin to move your organization into the “information age” in one of two ways, either (1) acquiring a suite of commonly-used programs designed for meeting the needs of both individuals and organizations, or (2) acquiring software programs designed specifically to meet most needs of a small organization. Each of these options is discussed below:</para>
+    <section id="id1169028691888">
+      <title>Acquiring a suite of commonly-used programs</title>
+      <para id="id1169029245804">Perhaps the best-known suite of commonly used programs is Microsoft Office. A basic version of Office, Microsoft Office Standard 2007 includes four programs:</para>
+      
+      <list id="id8622258" list-type="enumerated" number-style="arabic"><item>Microsoft Word, used for preparing documents</item>
+        <item>Microsoft Excel, used for preparing spreadsheets (most commonly used for accounting analyses but also useful for basic record-keeping such as customer lists or checkbooks).</item>
+        <item>PowerPoint, used for making presentations, and</item>
+        <item>Microsoft Outlook, used for managing email. (<link target-id="id1168193732216" document="m34233">Microsoft 2009</link>)</item>
+      </list>
+      <para id="id4684876">There are several other open-source options available as well, typically at no cost to you. Some of these are:</para>
+      <list id="id1169027880450" list-type="enumerated" number-style="arabic"><item>Open Office (<link document="m34233" target-id="id8087309">Openoffice 2009</link>)</item>
+        <item>Google Docs (<link document="m34233" target-id="id1168193191979">Google 2009</link>)</item>
+        <item>Zoho (<link document="m34233" target-id="id8714688">Zoho 2009</link>)</item>
+      </list>
+      <para id="id1169033337351">In addition to being free, the open source options have the ability to read and write computer file a format compatible with the more widely used Microsoft products.</para>
+    </section>
+    <section id="id1169028728476">
+      <title>When to think about using database management software</title>
+      <para id="id1169027106708">As your business grows and you need to keep accurate records on a computer beyond what is reasonable to do with a spreadsheet program, you should consider adding database management software. </para>
+      <para id="id1169039310449">Karen Stille placed a good comparison of the features of database and spreadsheet software a website, QCISolutions. In summary, she states that:</para>
+      <quote id="fs-id1171435660990"><para id="id1169026834723">“As a general rule of thumb, databases should be used for data storage and spreadsheets should be used to analyze data.</para>
+      <para id="id1169028591664">“In a nutshell we use a database if...</para>
+      <list id="id1169027990823" list-type="bulleted">
+        <item>the information is a large amount that would become unmanageable in spreadsheet form and is related to a particular subject. </item>
+        <item>you want to maintain records for ongoing use. </item>
+        <item>the information is subject to many changes (change of address, pricing changes, etc.). </item>
+        <item>you want to generate reports based on the information. </item>
+      </list>
+      <para id="id1169026782048">Use a spreadsheet if...</para>
+      <list id="id1169027439890" list-type="bulleted">
+        <item>you want to crunch numbers and perform automatic calculations. </item>
+        <item>you want to track a simple list of data. </item>
+        <item>you want to easily create charts and graphs of your data. </item>
+        <item>you want to create "What-if" scenarios. </item>
+      </list>
+      <para id="id1169026496712">“In most cases, using the combination of a database to store your business records and a spreadsheet to analyze selected information works best”.(<link document="m34233" target-id="id1168193244208">Stille 2009</link>)</para></quote>
+      <para id="id1169037218113">Microsoft’s widely-used database management software is called ACCESS, and versions of Microsoft Office that use ACCESS are available for purchase. More information is available on the Microsoft site (Microsoft). On the other hand, open source database management software is also available at no cost to you. You may wish to examine one of the following open source packages to see if one of them meets your needs:</para>
+      <list id="id1169031627710" list-type="bulleted"><item>MySQL (<link document="m34233" target-id="id1168194045089">MySQL 2009</link>) </item>
+        <item>Zoho Creator (<link document="m34233" target-id="id8714688">Zoho 2009</link>)</item>
+      </list>
+      
+      <para id="id1169030288639">One of the prevailing issues with using open source software rather than software you purchase is the level of support you can expect from the software’s creator. If you pay for software, you have a right to expect excellent documentation and support. If the software is free, sometimes documentation and support do not meet the same standards. Much of the support you get is from the community of users. As of this writing, the worldwide community for ACCESS is much larger, and there are many books written about it. The open source databases are just as useful, but finding information and support can be a more tedious process. However, according to the Gartner Group, a highly-respected technology research company based in the US, open source database management software is becoming more attractive. In a report released in November 2008, they made the following observations:</para>
+      
+      <para id="id1169037448732">“During 2008, since our last note about open-source database management systems (DBMSs), we have seen an increase in the interest and use of open-source DBMS engines in a production environment. As this trend continues to gain speed, the cost benefits of using an open-source DBMS is increasing and the risk of using it is decreasing.</para>
+      
+      <para id="id1169033510404">Key Findings:</para>
+      <list id="id1169039822040" list-type="bulleted">
+        <item>Lower total cost of ownership (TCO), compared to commercial DBMSs, can be realized for non-mission-critical applications.</item>
+        <item>There are large third-party software vendors looking to certify open-source DBMSs as a platform for existing applications, including SAP.</item>
+        <item>The major open-source DBMS products are now available for installation as a package, without involving the source code, including tools to help support the DBMS environment.</item>
+        <item>If the technical capabilities of the staff are strong, use of an open-source DBMS in mission-critical environments is possible now.</item>
+      </list>
+      
+      <para id="id1169040104935">Recommendations:</para>
+      <list id="id3117559" list-type="bulleted"><item>Open-source DBMS engines can be used today for non-mission-critical applications with reduced risk over several years ago.</item>
+        <item>Only use an open-source DBMS engine supplied by a vendor who controls or participates in the engineering of the DBMS and always purchase subscription support when used in production environments.</item>
+        <item>If open source is part of your overall IS strategy, plan for the use of open-source DBMS engines in mission-critical environments in two to five years.” (<link target-id="id1168193896249" document="m34233">Gartner 2008</link>)</item>
+        <item>Acquiring software programs designed specifically to meet most needs of a small organization</item>
+        <item>In the same way that Office Suites are available which can perform many of the basic information systems tasks of a small organization, there are suites of programs available to perform specific functions like accounting, payroll, customer relationship management, inventory control and the like. Recall that we discussed computer-based accounting systems in considerable detail in Chapter 9. </item>
+        <item>(Enterprise Resource Planning (ERP) systems are the analogous software solutions for large and medium-sized companies.) Examples of small business “suites” include the following: </item>
+      </list>
+      <para id="id1169040928843">Microsoft has a site devoted to software suite solutions for small businesses at <link url="http://www.microsoft.com/business/peopleready/">http://www.microsoft.com/business/peopleready/</link></para>
+      <para id="id1657201">NetSuite (<link url="http://www.netsuite.com/">www.netsuite.com</link>) NetSuite is in a category of software called “software as a service (SaaS). In the SaaS model, the software resides on the servers of the software provider rather than on the using organization’s computer. The advantages of this model are that users never have to worry about software and data backups or software updates. These functions are provided at the software company’s data centers. Some SaaS models charge users by the month, others charge them at a variable rate, based on the number of transactions per month and/or the size of their databases. The downside for some users with SaaS is that the information is not kept “in-house.” Although hosted solutions are considered very secure, some users worry about security and privacy issues. The website, <link url="http://www.2020software.com/">www.2020software.com</link> compares several small business software suites, and has links to the companies’ sites.</para>
+      <para id="id1169040317656">There are a number of open source initiatives for small business software you may wish to investigate. One such example is xTuple (<link url="http://www.xtuple.org/">http://www.xtuple.org/</link>). A comprehensive list of options is available at SourceForge (<link url="http://www.sourceforge.net/">www.sourceforge.net</link>). Our previous cautions on the use of open source software products apply here as well.</para>
+    </section>
+    <section id="id1169026733448">
+      <title>Creating a web presence</title>
+      <para id="id1169034094154">Having a web site is now considered as necessary as a phone or fax number even an email address for corresponding with customers. Since the site will be a reflection of your organization, its product or service, the most important step is to research and plan. For most business, a Web site can serve as a resource for information and to promote the organization, its brand, and the value of the product or services being offered. But many times, businesses as well as individuals create a site for the sake of having one, without taking time to understand what customers and the business expect from a site. When you set down to create your site, consider the following first;</para>
+      <list id="id1169033337467" list-type="bulleted"><item>Decide on a budget. </item>
+        <item>Decide on a name (Domain Name or URL). Check <link url="http://www.whois.com/">http://www.whois.com</link> to see if the name is already taken.</item>
+        <item>Register the name (Domain Name or URL). Login to a registrar like <link url="http://www.godaddy.com/">http://www.godaddy.com</link> and follow their instructions for registration.</item>
+        <item>Decide how the site will be designed and maintained (who will handle this)? </item>
+        <item>What will be the content of the site? </item>
+        <item>Decide on a hosting company for the site. There are hundreds, if not thousands of hosting companies will host your website for as little as $3.95US per month. A simple Google search will turn up many candidates for you in your locale. To get an appreciation of the kinds of hosting services that are available from US-based companies, go to <link url="http://hostingreview.com/">http://hostingreview.com</link>.</item>
+        <item>Decide whether you will hire someone to build the site for you or if you want to use one of the many template-driven software packages to build it yourself.</item>
+      </list>
+      <para id="id1169027862219">Finding out what kinds of information your customers want, and then designing and developing your site to provide up-to-date, ongoing resource materials can help you better position your products or services and serve as a credible “go-to spot.” A web site can go from a simple one-page site with your name and mission statement to a site with multiple pages that include on-line sales, newsletters and discussion forums.</para>
+    </section>
+  </content>
+</document>

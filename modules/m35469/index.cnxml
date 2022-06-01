@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Strategies for external relationships</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35469</md:content-id>
+  <md:title>Strategies for external relationships</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Steven D Sheetz (Virginia Tech, USA)</para>
+<para><emphasis>Contributors:</emphasis> Kimberly Watkins, Sarah ElShawarby, Nicholle Depaz (Virginia Tech, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Robin S Russell (Virginia Tech, USA)</para></md:abstract>
+  <md:uuid>a6dcc38d-43fb-446a-9598-3ed8063c3749</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+      <para id="id4770027">The rapid change in technology and the development of the Internet has changed the traditional definitions of manufacturers, suppliers, and customers. <emphasis effect="bold">Supply Chain Management</emphasis> (SCM) is the integration of key business processes that add value for customers and other stakeholders. This added value is created through the integration of networks of suppliers that provide products, services, and information. Supply chain management allows this network of cooperating agents to perform one or more supply chain functions, potentially reducing costs and resulting in a competitive advantage for the organization.</para>
+      <figure id="id1171731906539"><label>Exhibit</label>
+<media id="id1171731906539_media" alt="The movement through a supply chain. There are suppliers that feed into a factory and distribution centers. The factory is connected to distribution centers and warehouses. Then customers are connected to warehouses and distribution centers.">
+          <image mime-type="image/png" src="../../media/Picture 16.png" id="id1171731906539__onlineimage" width="525" print-width="3.75in"/>
+        </media>
+      <caption>Movement through a supply chain</caption></figure>
+      
+      <para id="id5236377">The above figure illustrates the movement of products through a supply chain network. The supply chain begins when suppliers send raw materials to a factory. The factory may use the materials in a number of ways. They can either manufacture subcomponents or assemble the materials into finished products to be sent to the warehouse or distribution center where customers can get the products.</para>
+      <para id="id1171731160373">In order for the supply chain to be successful, organizations must recognize that they are but one player in the long chain that starts with suppliers and also includes transporters, distributors, and customers. The organizations must interact cooperatively with their channel partners (Gandhi, 2003). An important issue relating to the development of a collaborative supply chain is following specified ordering and replenishment policies. An example of Collaborative Supply Chain Planning (CSCP) is Vendor Managed Inventory (VMI).</para>
+      <para id="id1171731217834"><emphasis effect="bold">Vendor Managed Inventory</emphasis> allows the supplier to receive electronic data to maintain constant information about the manufacturer’s sales and stock levels. The supplier is then responsible for creating and managing the inventory replenishment schedule. VMI is defined as a process where the supplier generates orders for customers based on demand information sent by the customer (Gandhi, 2003). VMI leads to changes in both the buyers’ and suppliers’ inventory management activities. VMI has not become a standard way of managing the replenishment process in the supply chain due to some practical issues that have slowed down its implementation in many organizations. One problem may exist because the supplier and manufacturer are unwilling to share information because of a lack of trust. In order for VMI to be effective, it has to produce observable benefits, especially in the reduction of inventory costs. </para>
+      <para id="id1171733393574">Some of the benefits of VMI include: </para>
+      <list id="id1171731161710" list-type="bulleted">
+        <item>lower customer inventories </item>
+        <item>better forecasts</item>
+        <item>reduced costs</item>
+        <item>improved services</item>
+        <item>strengthening competitive advantage</item>
+        <item>strengthening buyer-supplier relationships</item>
+      </list>
+      <para id="id1171733514603">Similar to SCM and VMI, Collaborative Planning, Forecasting, and Replenishment (CPFR) was developed to allow better communication of control information, which enables coordination and optimization of shared business processes. CPFR is defined as an initiative among all participants in the supply chain intended to improve the relationship among them through jointly managed planning processes and shared information (Seifert, 2003). When successful, it also improves relationships between producers and retailers. </para>
+      <para id="id1171731700392">One of the first CPFR projects was initiated by Wal-Mart and Warner-Lambert, which merged with Pfizer in 2000. This project was intended to reduce inventories across the supply chain. It provided comparisons of sales and order forecasts of each trading partner and highlighted any visible forecast differences early enough for the partners to resolve any potential issues. Warner-Lambert applied CPFR to the Listerine mouthwash products by sharing of forecasts and responding to inconsistencies between the collaboration partners’ forecasts. In Warner-Lambert’s case, Wal-Mart’s promotions created large swings in consumer demand, which Warner-Lambert was unaware of prior to CPFR. Warner-Lambert maintained substantial inventory as a hedge in order to prevent supplies from running out of stock. Wal-Mart and Warner-Lambert independently calculated the demand they expected six months in advance. The partners shared this information, as well as the weekly forecast, and they worked together to resolve variations between their forecasts on a weekly basis. Wal-Mart began placing orders six months in advance, instead of nine days, so that Warner-Lambert was able to construct a smoother production plan. This allowed Warner-Lambert to maintain production based on consumer demand for Listerine rather than maintaining sufficient stock. Wal-Mart’s in-stock position improved and sales increased, while inventories dropped. Additionally, Warner-Lambert’s supply management improved substantially. Optimal applications of CPFR occur when, for example, many other retailers join Wal-Mart in sharing their projected demand with Warner-Lambert. Combining demand forecasts from many retail customers makes it possible for Warner-Lambert’s production plans to be much better aligned with total market demands.</para>
+      <para id="id4739000">Benefits of using CPFR are:</para>
+      <list id="id1171731725818" list-type="bulleted">
+        <item>drastically improved reaction times to consumer demand</item>
+        <item>higher precision of sales forecasts</item>
+        <item>direct and lasting communication</item>
+        <item>improved sales</item>
+        <item>inventory reduction</item>
+        <item>reduced costs</item>
+      </list>
+      <para id="id1171732939866">The CPFR process model is divided into three phases: planning, forecasting, and replenishment. The exhibit below provides an overview of the phases and activities in the CPFR model. </para>
+      <figure id="id1171732837213"><label>Exhibit</label>
+<media id="id1171732837213_media" alt="The original CPFR process model. Down a chart is the front end agreement, then the joint business plan, then the create sales forecast, then identify exceptions, then resolve expectations, then create order forecast, then identify exceptions, then resolve expectations, and finally, generate order.">
+          <image mime-type="image/jpg" src="../../media/Picture 19.jpg" id="id1171732837213__onlineimage" width="450" print-width="4in"/>
+        </media>
+      <caption>PFR Process Model<newline/>
+Source:
+<link url="http://www.scdigest.com/images/misc/Original-CPFRModel. jpg">http://www.scdigest.com/images/misc/Original-CPFRModel.
+jpg</link>. Accessed 30 December 2008</caption></figure>
+      
+      
+      <para id="id1171732908444">Planning consists of identifying an opportunity for collaboration, then developing an agreement to collaborate, as well as forming a collaborative business plan. Forecasting is the most important part of the model. It provides the mechanism through which needs are determined. It is improvement of this aspect of the supply chain through which all of these strategies provide advantages over more traditional methods. Replenishment involves making and delivering the product consistent with the needs schedule developed by the forecast. More accurate forecasts lead to production of only the needed products, which smooths the production schedule and results in price stability. This allows for existing capacity to be used to enable other products or to develop markets for additional production.</para>
+      <para id="id1171732908447">Many of the processes replaced by SCM, VMI, and CPFR strategies involve merely producing “the average of this month over the last 3 threes plus a small percentage”. Such ad hoc strategies, although widely employed, contain substantial inefficiencies. Exploiting these inefficiencies is the incentive for pursuing these programs. Another reason such programs are popular with managers is that savings realized go directly to the bottom line as customer needs are met while using less organizational resources.</para>
+      <para id="id1171733693048">An effective supply chain management program is one that develops processes shared among all the supply chain members in order to minimize the waste of time and enable fast and reliable reactions to changes in demand. Technology has exponentially increased the transfer of information between organizations, resulting in improved supply chain performance. Two common practices, Just-In-Time (JIT) and agile inventory approaches, are used to allow suppliers to react more quickly to changes in customer demand.</para>
+      <para id="id5266065"><emphasis effect="bold">Just-In-Time</emphasis> emphasizes minimizing inventory and smoothing the flow of materials to ensure adequate and prompt delivery of components. Products and materials are ordered and delivered “just in time” as they are needed reducing inventory costs and ensuring unneeded materials are not ordered. JIT began at Toyota Motor Company but it evolved into a system for continuous improvement of all aspects of the manufacturing operations. </para>
+      <para id="id1171732927520">Lean production is a philosophy based upon a collection of management methods and techniques (Russell, 2006). Workers and machines are multifunctional in lean systems. Workers are required to perform various tasks and help in the improvement process. The machines are arranged in small, U-shaped work cells; this structure enables parts to be processed in a continuous flow. Workers produce parts one at a time and transport them between the cells in small lots. The only schedules prepared are for the final assembly line. This schedule “pulls” sub-components through production by making requests to stations that cascade to production lines. Nothing is done until requested by the next station. </para>
+      <para id="id1171731712518">The system is best implemented when suppliers are few in number and are reliable. The suppliers’ manufacturing system must be flexible, because multiple deliveries may be requested of the same item in the same day. Lean production produces items in necessary quantities at necessary times. Consequently, quality must be extremely high, as there is little buffer inventory between workstations and production schedules include only requested products. </para>
+      <para id="id4436788">Lean systems can produce high quality service quickly at a low cost. Also, the system responds to changes in customer demand. Many retailers use lean systems such as Zara and Blockbuster. </para>
+      <para id="id1171731187311">Benefits of using lean production are:</para>
+      <list id="id1171732994044" list-type="bulleted">
+        <item>reduced inventory</item>
+        <item>improved quality</item>
+        <item>lower costs</item>
+        <item>reduced space requirements</item>
+        <item>shorter lead time</item>
+        <item>increased productivity</item>
+        <item>greater flexibility</item>
+        <item>better relations with suppliers</item>
+        <item>simplified scheduling and control activities</item>
+        <item>increased capacity</item>
+        <item>better use of human resources</item>
+        <item>greater product variety</item>
+      </list>
+      <section id="id1171731271063">
+        <title>Outsourcing</title>
+        <para id="id8178614"><emphasis effect="bold">Outsourcing</emphasis> is a contractual relationship where an external organization takes responsibility for performing all or part of a company’s functions (Vita, 2006). Outsourcing is the term used to designate a relationship in which a partner company performs business functions. Common examples of outsourced functions for companies in the developed world are software development and call centers. The principle justification for outsourcing functions like these from, for example, the US to India is that prevailing wage rates for these kinds of tasks are much lower than in the US and the Indian partner companies hire and train employees who speak English and are skilled at their jobs. There’s a difference between outsourcing and off-shoring. When a vendor in another country performs an outsourced function, off-shoring is the correct terminology for describing the relationship. The jobs being outsourced in an organization do not necessarily have to be outsourced to another country. Off-shoring can result in significant savings due to wage and currency discrepancies among countries. However, quality controls must be maintained to ensure that the products and services provided are returning the expected results. <emphasis effect="bold">Outsourcing</emphasis> is typically done by organizations who outsource non-core processes that are inefficient, difficult to manage, or too costly. Choosing a supplier to meet an organization’s outsourcing needs depends on the business process being outsourced, the scope of the project to be outsourced, as well as geographic factors. Business processes that are often considered good candidates to outsource include, but are not limited to: </para>
+        <list id="id1171731905064" list-type="bulleted">
+          <item>administration (audit, tax)</item>
+          <item>asset and property management</item>
+          <item>finance (accounting, billing, accounts payable, accounts receivable)</item>
+          <item>human resources (benefits administration, payroll)</item>
+          <item>information systems (development and operations)</item>
+          <item>miscellaneous (energy services, customer service, mailroom, food processing)</item>
+          <item>procurement/logistics</item>
+        </list>
+        <para id="id1171733823027">Business process outsourcing is becoming increasingly important. The management of one or more processes or functions by a third party is a means for the organization to reduce costs. The key benefits of outsourcing are realized by organizations that outsource business processes by transferring the entire function out-of-house. This enables access to specialized knowledge and expertise in the area; sharing of new methodologies, technologies and other resources; and standardizing processes across the organization. </para>
+        <para id="id1171732959297">An organization needs to outline the benefits and risks of outsourcing when deciding whether to outsource. The benefits need to outweigh the risks in order for outsourcing to be efficient and effective (Halvey, 2000). A typical benefit/risk analysis is:</para>
+        <para id="id1171730753961">Benefits:</para>
+        <list id="id1171731779587" list-type="bulleted">
+          <item>cost savings</item>
+          <item>increased flexibility</item>
+          <item>better customer or employee service</item>
+          <item>higher productivity</item>
+          <item>ability to concentrate on the core business</item>
+          <item>implementation of wide initiatives</item>
+          <item>movement of assets off books</item>
+          <item>more resources</item>
+          <item>variety of skills</item>
+          <item>access to new methodologies and technologies</item>
+          <item>training expense reduction</item>
+          <item>greater flexibility</item>
+        </list>
+        <para id="id1171732715309">Risks:</para>
+        <list id="id1171731756466" list-type="bulleted">
+          <item>loss of control</item>
+          <item>difficulty in managing costs</item>
+          <item>additional liability</item>
+          <item>difficulty in bringing the business process back in-house</item>
+          <item>reduced flexibility</item>
+        </list>
+        <para id="id1171732804078">Uncertainty in outsourcing occurs when an organization is not sure which business process function to outsource. Organizations should be overly inclusive with what needs to be outsourced. Including an unbundled requirement where the vendor provides separate pricing for certain functions can be helpful. Also, deciphering through the complexity of outsourcing can be easier once determining where the services will be provided.</para>
+        <para id="id1171731630893">The next step in assessing outsourcing is to identify potential vendors that have the desired resources, capabilities, and experience. The following will provide beneficial information to help make an informed decision: </para>
+        <list id="id1171731665125" list-type="bulleted">
+          <item>vendor information from industry reports/survey</item>
+          <item>looking at industry publications</item>
+          <item>talking to other outsourcing customers</item>
+          <item>sharing goals and concerns with chosen vendors </item>
+        </list>
+      </section>
+      <section id="id1171730766476">
+        <title>Potential external relationship obstacles</title>
+        <para id="id1171733732642">Outsourcing offers a number of potential benefits for companies; however they cannot ignore the obstacles that come along with outsourcing. Some countries have not achieved the desired benefits from outsourcing, because they have not realized the expected cost reductions anticipated from outsourcing their business processes to a third party. The lack of capable suppliers and service providers is a major problem. Losing control over the outsourced process is not uncommon. Additionally, problems and issues may emerge due to the integration of services and systems provided by the vendor. </para>
+        <para id="id1171735886455">Problems within the networked organization usually arise due to the failure in identifying all stakeholders and network partners. All nodes and partners in the networked organization have to know and recognize all the stakeholders involved. Another potential problem can result from having dominant nodes, which must be eliminated in the early stages of the relationship. All nodes within a relationship must fully understand the mission and goals. Having incompatible missions and goals will destroy a relationship and no benefits will be achieved. Also, problems may arise from clashing company cultures. Therefore, when choosing a supplier or a partner in the networked organization, having similar goals, missions, and similar ways of performing the business processes are vital for the success of the relationship.</para>
+      </section>
+   
+  </content>
+</document>

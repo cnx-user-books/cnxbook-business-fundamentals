@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>A short history of accounting and double-entry bookkeeping</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35488</md:content-id>
+  <md:title>A short history of accounting and double-entry bookkeeping</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Roger K Baer (CPA, LLC; and Former Partner, Arthur Andersen &amp; Co., USA)</para></md:abstract>
+  <md:uuid>2ffab769-09a2-4402-9b94-cbc464e772a2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+      <para id="id1171131656573">There are many stories of how accounting began, but most writers agree that it has a long history, going back 5,000 years or so. Legend has it that wealthy individuals, wanting to keep track of their possessions (cattle, stores of grain, gold ornaments and so forth), hired scribes to keep records of additions and deletions to their lists of possessions as they bought, sold, or traded them. One supposes that that they wanted to be sure that any changes were legitimate; that losses were not due to theft, and that if 100 cattle were purchased that the herd increased by 100. From time to time, a count of possessions would be made and compared to the records maintained by the scribe. Any unexplained losses would be a signal that something was amiss and worthy of investigation.</para>
+      <para id="id1171136109055">Modern bookkeeping is generally thought to have been invented during the Italian Renaissance (around 1494 AD, according to one version:</para>
+      <para id="id4633885"><quote id="id4633885_quote" display="block">Formal accounting was invented by a Franciscan friar named Luca Pacioli in 1494 in his paper "Summa de Arithmetica, Geometria, Proportioni et Proportionalita" ("Everything About Arithmetic, Geometry and Proportion").“The treatise described double-entry bookkeeping—that for every credit entered into a ledger there must be a debit, a concept created by Florentine merchants and hailed by Goethe as "one of the most beautiful discoveries of the human spirit". “Three traits shared by successful merchants, Mr. Pacioli wrote, were access to cash, a constantly updated accounting system and a good bookkeeper. His contemporary Christopher Columbus apparently knew that: On his voyage to the New World, he took a royal accountant to track his "swindle sheet when he started to figure the cost of gold and spices he would accumulate", according to Alistair Cooke's 1973 book "America." (<link document="m35496" target-id="id1170678861113"/>)</quote>
+      </para>
+      <para id="id1171121224167">In my opinion, Goethe was exaggerating when he called double entry bookkeeping "one of the most beautiful discoveries of the human spirit". I can think of many other discoveries that are more beautiful, but as the old saying goes: “Beauty lies in the eye of the beholder” and perhaps Goethe was a bookkeeper at heart. At any rate, the discovery of double-entry bookkeeping was undeniably important, because, as Wikipedia explains:</para>
+      <para id="id7753982"><quote id="id7753982_quote" display="block">Double-Entry Bookkeeping is a system that ensures the integrity of the financial values recorded in a financial accounting system. It does this by ensuring that each individual transaction is recorded in at least two different (sections) nominal ledgers of the financial accounting system and so implementing a double checking system for every transaction. It does this by first identifying values as either a Debit or a Credit value. A Debit value will always be recorded on the debit side (left hand side) of a nominal ledger account and the credit value will be recorded on the credit side (right hand side) of a <link url="http://en.wikipedia.org/wiki/General_ledger">nominal ledger account</link>. A nominal ledger has both a Debit (left) side and a Credit (right) side. If the values on the debit side are greater than the value of the credit side of the nominal ledger then that nominal ledger is said to have a debit balance.</quote>
+        <quote id="id1171144446547_quote" display="block">Each transaction must be recorded on the Debit side of one nominal ledger and that same transaction and value is also recorded on the Credit side of another nominal ledger hence the expression Double-Entry (entered in two locations) one debit and one credit (<link document="m35496" target-id="id1170671334892"/>).</quote>
+      </para>
+      <para id="id1171109482598">Here is a simple example to give you a feel for the way that double entry bookkeeping works: </para>
+      
+      <example id="eip-584"><para id="eip-360">
+  Let us assume that the owner of Bill’s Bicycle Shop, which we discussed above, bought some new bicycles on credit, for inventory. This is how the accounts would be affected:
+</para><para id="eip-875"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext> Debit the inventory - new bicycles account:
+</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>USD 2,000
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Credit the accounts payable account:
+</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>USD 2,000
+</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="eip-235">Next let us assume that the owner had some extra cash and decided to pay down some of our bank loan. This is how the accounts would be affected:</para><para id="eip-831"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext> Debit the loan from the bank account:
+</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>USD 1,000
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Credit the cash account:
+</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>USD 1,000
+</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</example>
+      
+      
+      <para id="id1171126265616">Note two things. First, a single transaction affects two accounts (a double-entry). Secondly, note that a debit to an asset account increases the value of the account and a debit to a liability (or owner’s equity) account decreases its value. So, when USD 1,000 is paid to the bank, the debit to the loan from bank account reduces the amount we owe to the bank, and the credit to cash decreases the balance in our cash account.</para>
+  </content>
+</document>

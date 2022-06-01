@@ -1,0 +1,95 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Advanced reports and analyses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35491</md:content-id>
+  <md:title>Advanced reports and analyses</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Roger K Baer (CPA, LLC; and Former Partner, Arthur Andersen &amp; Co., USA)</para></md:abstract>
+  <md:uuid>726df4d8-0e97-4a86-b17e-b0e5defb6c7f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+      <para id="id1167316966576">This section discusses some of the more common reports prepared from an accounting system that have, over the years, proven to be valuable tools for managing a business.</para>
+      <section id="id1167317041710">
+        <title>Cash flow forecasts</title>
+        <para id="id1167312172652">There is a saying in business that “Cash is King”. One of the worst things that can happen to a company is to run short of cash unexpectedly. This can make it difficult to pay suppliers and employees without scurrying around to raise needed cash quickly, and when you must raise cash quickly you often find it a difficult and expensive task. Business owners are not always successful in raising cash quickly and in the worst cases, must go bankrupt. This is why cash flow forecasts are prepared. They are easy to prepare and can be quickly done using a spreadsheet program. They can also be prepared manually. What a cash flow forecast does is estimate cash inputs and outputs over a period of time, usually at least 90 days in order to give you assurance that your business will have the cash necessary to meet its obligations to others. If the cash flow forecast shows, for example, that you are in a deficit position two months out, you will have time to raise the necessary cash you need and avoid a sudden cash crisis. Cash flow forecasts are often prepared for longer periods of time as well, depending on circumstances. In addition, they are often prepared using various assumptions about the future (e.g. general economic conditions, sales growth, increased expenses, etc).</para>
+        <para id="id1167319268770">As one authoritative website states:</para>
+        <para id="id1167323235332"><quote id="eip-id1170664864936">By knowing your cash position now and in the future, you can:</quote>
+<quote id="id1167323235332_quote" display="block"><list id="eip-id1170679027593"><item>Make certain you have enough cash to purchase sufficient inventory for seasonal cycles; </item>
+          <item>Take advantage of discounts and special purchases;</item>
+          <item>Properly plan equipment purchases for replacement or expansion; </item>
+          <item>Prepare for adequate future financing and determine the <link url="http://www.smallbusinessnotes.com/operating/finmgmt/capital.html">type of financing</link> you need (short term credit line, permanent working capital, or long-term debt). </item>
+          <item>Show lenders your ability to plan and repay financing. </item></list></quote>
+          <quote id="id1167315424243_quote" display="block">For a new or growing business, the cash flow projection can make the difference between succeeding and failure. For an ongoing business, it can make the difference between growth and stagnation.</quote>
+        </para>
+        <para id="id1167315905843">Preparing a cash flow projection is a something like preparing your budget and balancing your checkbook at the same time. Unlike the income statement, a cash flow statement deals only with actual cash transactions. Depreciation, a non-cash transaction, does not appear on a cash flow statement. Loan payments (both principal and interest) will appear on your cash flow statement since they require the outlay of cash. </para>
+        <para id="id1167317159323">Cash is generated primarily by sales. But in most businesses, not all sales are cash sales. Even if you have a retail business and a large percentage of your sales are cash, it is likely that you offer credit (charge accounts, charge cards, term payments, layaway, trade credit) to your customers. Thus, you need to have a means of estimating when those credit sales will turn into cash-in-hand. (<link document="" target-id="id1170677337322"/>)</para>
+      </section>
+      <section id="id1167316276808">
+        <title>Working capital analyses</title>
+        <para id="id7663562">Working capital is commonly defined as the funds a business needs to support its normal operations. In some ways, a working capital analysis is similar to a cash flow forecast, but it differs in its focus on the operating cycle of the business. </para>
+        <para id="id1167326176312">Quoting from the website Entrepreneur.com, </para>
+        <para id="id1167325946799"><quote id="id1167325946799_quote" display="block">“the operating cycle analyzes the accounts receivable, inventory and accounts payable cycles in terms of days. In other words, accounts receivable are analyzed by the average number of days it takes to collect an account. Inventory is analyzed by the average number of days it takes to turn over the sale of a product (from the point it comes in your door to the point it is converted to cash or an account receivable). Accounts payable are analyzed by the average number of days it takes to pay a supplier invoice.</quote>
+          <quote id="id1167336338246_quote" display="block">“Most businesses cannot finance the operating cycle (accounts receivable days + inventory days) with accounts payable financing alone. Consequently, working capital financing is needed. This shortfall is typically covered by the net profits generated internally or by externally borrowed funds or by a combination of the two.</quote>
+          <quote id="id1167314126602_quote" display="block">“Most businesses need short-term working capital loans at some point in their operations. For instance, retailers must find working capital to fund seasonal inventory buildup between September and November for Christmas sales. But even a business that is not seasonal occasionally experiences peak months when orders are unusually high. This creates a need for working capital to fund the resulting inventory and accounts receivable buildup”.  (<link document="" target-id="id7261302"/>) </quote>
+        </para>
+        <para id="id1167332370348">A working capital analysis is prepared in a manner similar to what we described for a cash flow forecast in that assumptions are made about the impact on working capital as a result of activities during the forecast period in order to provide the business owner with assurance that adequate working capital to support operations will be generated by normal business operations. If not, alternative sources of working capital must be lined up, and the earlier such a need is recognized, the better.</para>
+        <section id="id1167314949712"><title>Break-even analysis</title><para id="id1167318236464">A break even analysis is designed to show you how much revenue must be generated to cover your fixed and variable costs. Revenue below the breakeven point means the business is losing money and revenue above the breakeven point means the business is profitable.</para>
+          <para id="id1167316519852">Let us look at a simple example, one that assumes your business is selling only one product. In order to calculate the breakeven point you will need to know three things:</para>
+          <list id="id1167318391340" list-type="bulleted">
+            <item>Your fixed costs</item>
+            <item>Your variable cost </item>
+            <item>Your unit selling price</item>
+          </list>
+          <para id="id1167330318013">Once the breakeven point is passed and revenue continues to rise, your business will be profitable. This is why knowing your breakeven point in terms of unit sales is so important. The website About.com:Entrepreneurs contains an easy to understand formula for calculating your breakeven point:</para>
+          
+           <para id="eip-id1171857215555"> <quote id="eip-id1171839461741">To conduct your breakeven analysis, take your fixed costs, divided by your price minus your variable costs. As an equation, this is defined as:</quote> 
+          
+<quote id="eip-id1171851837216"><emphasis effect="bold">Breakeven Point = Fixed Costs/(Unit Selling Price - Variable Costs)</emphasis></quote>
+            <quote id="eip-id7327402"> This calculation will let you know how many units of a product you will need to sell to break even. Once you have reached that point, you have recovered all costs associated with producing your product (both variable and fixed).</quote> 
+<quote id="eip-id1171845539954">
+Above the breakeven point, every additional unit sold increases profit by the amount of the unit contribution margin, which is defined as the amount each unit contributes to covering fixed costs and increasing profits. As an equation, this is defined as:</quote>
+
+          <quote id="eip-id1171845762254"><emphasis effect="bold">Unit Contribution Margin = Sales Price - Variable Costs</emphasis></quote>
+          
+            <quote id="eip-id1625290">Recording this information in a spreadsheet will allow you to easily make adjustments as costs change over time, as well as play with different price options and easily calculate the resulting breakeven point. You could use a program such as Excel’s Goal Seek, if you wanted to give yourself a goal of a certain profit, say USD 1 million, and then work backwards to see how many units you would need to sell to hit that number. (This <link url="http://www.homeandlearn.co.uk/ME/mes8p4.html">online tutorial</link> will show you how to use Goal Seek.)(<link document="" target-id="id5781030"/>).</quote></para>
+          
+        </section>
+      </section>
+      <section id="id1167314730194"><title>Profitability analyses (e.g. by customer, product, region)</title><para id="id1167325565991">There are many types of analyses that managers prepare in order to gain a deeper insight into the operations of their businesses. One of the most important of these is profitability analyses. Managers, know, intuitively, that some customers are more profitable than others, that they make more gross margins on some products than others, and if the business has more than just local coverage, that some geographical regions are more profitable than others. While it is good to know such things intuitively, it is better to know them for sure. And knowing them for sure requires that systematic analyses be prepared.</para>
+        <para id="id1167324797444">According to Wikipedia, </para>
+        <para id="id1167312106426"><quote id="id1167312106426_quote" display="block">
+            <quote display="inline">“Customer profitability (CP) is the difference between the revenues earned from and the costs associated with the customer relationship in a specified period”.</quote>
+          </quote>
+          <quote id="id1167319446034_quote" display="block">“Although CP is nothing more than the result of applying the business concept of profit to a customer relationship, measuring the profitability of a firm’s customers or customer groups can often deliver useful business insights.</quote>
+          <quote id="id1167312461419_quote" display="block">“Quite often a very small percentage of the firm’s best customers will account for a large portion of firm profit. Although this is a natural consequence of variability in profitability across customers, firms benefit from knowing exactly who the best customers are and how much they contribute to firm profit.</quote>
+        <quote id="eip-id1165721122535">“At the other end of the distribution, firms sometimes find that their worst customers actually cost more to serve than the revenue they deliver. These unprofitable customers actually detract from overall firm profitability. The firm would be better off if they had never acquired these customers in the first place” (<link document="" target-id="id1170665696632"/>).</quote></para>
+        
+        <para id="id1167312151482"><quote display="inline">The biggest challenge in measuring customer profitability is the assignment of costs to customers. While it is usually clear what revenue each customer generated, it is often not clear at all what costs the firm incurred serving each customer.</quote> So, accountants try and develop some sort of reasonable method of allocating fixed and variable costs to customers. A typical method is to analyze each cost and try to determine the proportion attributable to each customer. A simple and clear-cut example is a situation where a store has both walk-in and on-line customers. The costs of renting and maintaining the physical store could reasonably be allocated to the customers who purchase goods in person, based on the number of visits or more likely on the amount of sales to each customer. On-line customers could have the costs of developing and maintaining the website allocated to them. With this information in hand, a customer profitability analysis can be prepared. It is usually prepared in descending order by customer profitability, as illustrated in <link target-id="eip-id1164905723247"/>:</para>
+
+<figure id="eip-id1164905723247"><label>Exhibit</label>
+<media id="eip-id1164907114063" alt="A customer profitability analysis, listing columns of customer names, gross sales, allocated costs, and profit."><image mime-type="image/png" width="500px" src="../../media/exhibit40.png"/></media>
+<caption>Customer Profitability Analysis</caption></figure>
+
+        <para id="id1167337868046">Assume you are the owner of the restaurant supply company illustrated in the exhibit. What kinds of useful information can you gather from an analysis such as this?</para>
+        <para id="id1167316814454">Many companies prepare a similar type of analysis at the gross margin level and skip the step of trying to allocate costs to individual customers. In this case, cost of goods sold is substituted for “allocated costs” in column three of <link target-id="eip-id1164905723247"/>, and column four will show gross margin by customer instead of profitability by customer. For many managers, gross margin by customer gives them the essential information they need without going through the additional step of trying to allocate costs to customers, which is clouded by its inherent inaccuracies.</para>
+      </section>
+  </content>
+</document>

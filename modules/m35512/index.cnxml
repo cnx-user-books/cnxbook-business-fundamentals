@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>IS tools for the Start-Up Organization</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35512</md:content-id>
+  <md:title>IS tools for the Start-Up Organization</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA) and Garry Woods
+(CommerceNext LLC, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Richard A Scudder (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>542aec0d-0634-4093-9c76-5cddbcbfc321</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1169450569775">Before we begin our discussion of IS tools for a start-up organization, it is important to note that it may not be necessary to use a computer-based information system when you first go into business. You may be able to satisfy your information processing and record-keeping needs with manual systems. However, as the price of computers drop you’re your business expands, you may find it wise, as many small business owners do, to invest in computer-based information systems. Many people use Information Systems and Information Technology as if they meant the same thing. They are different, and it is important for you to understand the difference between them. As illustrated in <link target-id="fs-id1170250141326"/>, an Information System is comprised of two sub-systems, a Social sub-system and a Technology sub-system.</para>
+    <figure id="fs-id1170250141326"><label>Exhibit</label>
+<media id="fs-id1170250717765" alt="Structure and people, social system on the left, connected to technology and process, technical system on the right."><image mime-type="image/png" src="../../media/case2.png"/></media>
+<caption>An information system</caption></figure>
+    <para id="id2043587">The discussion of the four components of an Information Systems as well as <link target-id="fs-id1170250141326"/> above has been extracted from another book in the Global Text library (<link url="http://docs.globaltext.terry.uga.edu:8095/anonymous/webdav/Information%20Systems/Information%20Systems.pdf">Information Systems</link> 2008).</para>
+    <section id="id4575623"><title>The technology sub-system</title><para id="id7775985">An information system may not need the use of computers to make the accumulation, organization, and reporting of information easier, faster, or more reliable. In your organization early stages, you may find it simple enough to just keep paper records and communicate face-to-face or by telephone rather than use email. However, modern organizations increasingly rely on information technology as the core of their information systems and part of the reason is that the cost of using computers has decreased as technology improves. We define information technology to include hardware, software and telecommunication equipment that is used to capture, process, store and distribute information.</para>
+      <para id="id1169451854414">Hardware is the physical equipment—such as a personal computer, a laptop, a portable computing device, and even a modern cell phone—used to process information. Software is the set of coded instructions (programs) that direct the hardware to perform the required tasks. A typical example is Google Docs—a word processing program designed to instruct a computer to create text documents. Telecommunication systems are the networking equipment enabling users and devices to communicate. An example of a telecommunication system is a telephone network, which allows two callers to interact by voice over a distance.</para>
+      <para id="id1169448766096">These three elements—hardware, software and telecommunication systems—comprise the technology component of an information system. </para>
+    </section>
+    <section id="id1169439754171"><title>The process sub-system</title><para id="id1169443963947">As discussed in <link document=""/>Chapter 7, a process is the set of steps employed to carry out a specific business or organizational activity. In other words, a process maps the set of actions that an individual, a group or an organization must enact in order to complete an activity. Consider the job of a grocery store manager and the process he engages in when restocking an inventory of goods for sale. The store manager must:</para>
+      <list id="id1169449009178" list-type="bulleted"><item>check the inventory of goods for sale and identify the needed items</item>
+        <item>call individual suppliers for quotations and possible delivery dates</item>
+        <item>compare prices and delivery dates quoted among several suppliers for the same goods</item>
+        <item>select one or more suppliers for each of the needed items based on the terms of the agreement (e.g. availability, quality, delivery)</item>
+        <item>call these suppliers and place the orders</item>
+        <item>receive the goods upon delivery, checking the accuracy and quality of the shipped items; pay the suppliers</item>
+      </list>
+      <para id="id1169440954942">Note that there are multiple viable processes that an organization can design to complete the same activity. In the case of the grocery store, the timing and form of payment can differ dramatically, from cash on delivery to direct transfer of the payment to the supplier’s bank account within three months of the purchase. The critical insight here is that the design of the process must fit with the other components of the information system and be adjusted when changes occur. It must also meet the unique needs of the organization. For example, imagine the grocery store manager purchasing a new software program that enables her to get quotations from all of the suppliers in the nearby regions and place orders online. Clearly the preceding process would need to change dramatically, and the store manager would need to be trained in the use of the new software program—in other words, changes would also affect the people component.</para>
+    </section>
+    <section id="id1169441904355">
+      <title>People</title>
+      <para id="id1169443282017">The people component of an information system encompasses all those individuals who are directly involved with the system. These people include the managers who define the goals of the system, and the users. The critical insight here is that the individuals involved in the information system come to it with a set of skills, attitudes, interests, biases and personal traits that need to be taken into account when the organization designs the information system. Very often, an information system fails because the users do not have enough skills, or have a negative attitude toward the system. Therefore, there should be enough training and time for users to get used to the new system.</para>
+      
+      <para id="id1169448914991">For example, when implementing an automated payroll system, training on how to enter employees’ account information, how to correct wrong entries, and how to deposit the salaries into each account should be provided to the human resources staff. The benefits of the system should be communicated to both the human resources staff and the employees in order to build up positive attitudes towards the new system.</para>
+      
+    </section>
+    <section id="id1169443319407">
+      <title>Structure</title>
+      <para id="id1169447483014">The structure (or organizational structure) component of information systems refers to the relationship among the individuals in the people component. Thus, it encompasses hierarchical and reporting structures, and reward systems. Many of these issues are discussed in <link document=""/>Chapter 5. The structure component plays a critical role in an information system, simply because systems often fail when they are resisted by their intended users. This can happen because individuals feel threatened by the new work system, or because of inherent human resistance to change. When designing a new information system the organization needs to be cognizant of the current and future reward system in order to create incentives to secure its success.</para>
+      <section id="id1169449804727">
+        <title>Relationships between the four components</title>
+        <para id="id1169448984037">At this point it should be clear how information systems, while enabled by IS, are not synonymous with IS. Each of the four components discussed above can undermine the success of an information system—the best software application will yield little result if users reject it and fail to adopt it. More subtly, the four components of information systems must work together for the systems to perform. Thus, when the organization decides to bring in a new technology to support its operation, the design team must adjust the existing processes or develop new ones. The people involved must be trained to make sure that they can carry out the processes. If the skills of these individuals are such that they can’t perform the required tasks or be trained to do so, a different set of individuals need to be brought in to work with the system. Finally, the design team must evaluate whether the organizational structure needs to be modified as well. New positions may need to be created for additional responsibilities, and old jobs may need to be eliminated. The transition from the old way of doing things to the new system needs to be managed, ensuring that appropriate incentives and a reward structure is put in place. </para>
+      </section>
+      <section id="id1169450795986"><title>Some practical advice for start-ups</title><list id="id1169445139106" list-type="bulleted">
+          <item>Don’t invest in IS solutions unless until you can see that they will provide you with real benefits. They will require an investment of valuable time and money that you could perhaps use more effectively in other areas of your business.</item>
+          <item>Installing IS systems often take longer and cost more than originally estimated. You should have some IS skills available to help you get over the rough spots.</item>
+          <item>Remember that it is usually a mistake to be one of the first to use a new technology. It can be risky, and it is even more important that you have access to personnel with strong IS skills. </item>
+        </list>
+        <para id="id1169446912844">At the same time, it can be a mistake to wait too long to gain business benefits from carefully chosen IS applications, particularly if your competition is taking advantage of IS for efficiency, effectiveness, and innovation.</para>
+      </section>
+    </section>
+  </content>
+</document>

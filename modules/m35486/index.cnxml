@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chart of accounts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35486</md:content-id>
+  <md:title>Chart of accounts</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Donald J McCubbrey (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Reviewer:</emphasis> Roger K Baer (CPA, LLC; and Former Partner, Arthur Andersen &amp; Co., USA)</para></md:abstract>
+  <md:uuid>89e3e4ae-a1df-4fa1-ab7e-75f6589e3d5c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+      <para id="id1170525492673">Setting up an appropriate chart of accounts will take some careful thought on your part because you want to be sure that accounts are set up in each category (i.e. assets liabilities, etc.) that will enable you to accumulate accounting transactions in a meaningful way. As a starting point, you should consider the kinds of information you will need in order to run your business. You may then go on to consider other types of information that may be required for financial reporting, as we discussed earlier. Setting up a chart of accounts is best understood if we walk through an example. Let us suppose a young entrepreneur plans to start a men’s clothing store and needs to develop a chart of accounts. Typically, accounts in a chart of accounts each have an account number. This is no different than you having a unique account number for companies you deal with, such as a bank or a telephone company. A number uniquely identifies you from another customer that might have exactly the same name and is easier to use in a computerized customer accounting system. In the same way, an account number in a chart of accounts uniquely identifies an account and is easier to use in a computerized general accounting system. It is common to assign a range of numbers to each type of account. One common way is illustrated in <link target-id="id1170517935384"/>:</para>
+      
+      <table id="id1170517935384" summary="chart of account numbers">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Account Type</entry>
+              <entry>Account Number Range</entry>
+            </row>
+            <row>
+              <entry>Asset accounts</entry>
+              <entry>100-199</entry>
+            </row>
+            <row>
+              <entry>Liability accounts</entry>
+              <entry>200-299</entry>
+            </row>
+            <row>
+              <entry>Equity accounts</entry>
+              <entry>300-399</entry>
+            </row>
+            <row>
+              <entry>Income accounts</entry>
+              <entry>400-499</entry>
+            </row>
+            <row>
+              <entry>Expense accounts</entry>
+              <entry>500-599</entry>
+            </row>
+            <row>
+              <entry>Contra accounts</entry>
+              <entry>600-699, or in the range to which they relate</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Range of account numbers in a sample chart of accounts</caption>
+</table>
+      <para id="id1170523163896">The next step is to decide the breakdown of accounts you need so that you set up an account for the detailed information you need for each account type. For example, starting with the asset account category, you may decide that you need to begin your business with at least the following accounts:</para>
+      
+      <table id="id7494168" summary="chart of accounts">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Account Number</entry>
+              <entry>Account Name</entry>
+            </row>
+            <row>
+              <entry>100</entry>
+              <entry>Cash on Hand (Petty cash)</entry>
+            </row>
+            <row>
+              <entry>105</entry>
+              <entry>Cash in Bank</entry>
+            </row>
+            <row>
+              <entry>110</entry>
+              <entry>Accounts Receivable </entry>
+            </row>
+            <row>
+              <entry>115</entry>
+              <entry>Inventory for resale</entry>
+            </row>
+            <row>
+              <entry>120</entry>
+              <entry>Office equipment</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Examples of current asset accounts in a chart of accounts</caption>
+</table>
+      <para id="id1170531842334">The same process is followed with all of the account types until your chart of accounts is complete, and contains all of the categories you believe will be needed in order to accumulate accounting information in meaningful categories.</para>
+      <para id="id1170526558588">Fortunately, there are many sources where you can obtain <emphasis effect="italics">sample</emphasis> charts of accounts by type of business that you can use as a guide and starting point. One source of such information can be the national associations (or institutes) of professional accountants we referred to previously in this chapter. Another source is the providers of accounting software we will discuss later in this chapter and in Chapter 10. One other option is to do an Internet search for a sample chart of accounts for your type of business. For example, we did a simple Google search for a “Bed and Breakfast” (B&amp;B) sample chart of accounts and found a 98 page document that discusses almost every issue someone who wants to start a B&amp;B needs to know, including a sample chart of accounts, beginning on page 90 (<link document="m35496" target-id="id1170665356420"/>).</para>
+  </content>
+</document>

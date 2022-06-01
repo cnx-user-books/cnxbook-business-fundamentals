@@ -1,0 +1,56 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The marketing model</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35349</md:content-id>
+  <md:title>The marketing model</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editors:</emphasis> Salvador Treviño and Carlos Ruy Martinez (ITESM, Monterrey Campus, Mexico)</para>
+<para><emphasis>Contributors:</emphasis> Carlos Alberto Alanis, Gaspar Rivera, Jorge Echeagaray, Jose de Jesus Montes, Juana Monica
+Garcia, Ramiro Robles, and Roberto Sanchez</para></md:abstract>
+  <md:uuid>ed87dced-27dd-4efc-af55-7efa39e8d85f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+      <para id="id1167818803207">The marketing model is a management orientation which maintains that the fundamental task of the organization is to determine needs and wants of customers in the target market and adapt the organization as a whole to satisfy their customers more effectively and efficiently. Satisfying customers more efficiently and effectively than competitive companies increases the chances of the organization’s success. The marketing model is an approach whereby companies create value for their customers. This concept can be understood by applying it in the so called <emphasis effect="bold">Value Chain Model</emphasis> introduced by Michael Porter. An application on how this model is applied in marketing is shown <link target-id="eip-id2096596"/> below. </para>
+      <para id="id1167812209372"><figure id="eip-id2096596"><label>Exhibit</label>
+<media id="eip-id1165105646218" alt="A flowchart. Customer needs and wants, followed by research and development, followed by engineering, followed by manufacturing, followed by customer value.">
+<image mime-type="image/png" src="../../media/3_5_1.png" width="700" print-width="4in"/>
+</media>
+
+<caption>Value chain of marketing</caption></figure>
+</para>
+      <list id="id1167812207484" list-type="bulleted">
+        <item>First, you need to know and understand your customers’ needs and wants. </item>
+        <item>Based on your understanding of their needs, through research and development you must develop an appropriate product or service that fulfills those needs. </item>
+        <item>Based on your engineering capabilities you must define your manufacturing process that delivers the right product in the most efficient and economical way.</item>
+        <item>Finally, the product or service must be delivered at the right time and place. </item>
+      </list>
+      <para id="id1167812261450">A simple way to understand the creation of value to customers is by examining the following equation:</para>
+      <para id="id1167812209829">Value = Benefits / Price</para>
+      <para id="id1167812261411">Value is created by increasing benefits to the customers. For this reason, “benefits” is specified in the numerator of this equation (the higher the benefits, the higher the perceived value by the customer); on the other hand, “price” is placed in the denominator since the higher the price the lower the perceived value.</para>
+      <para id="id1167812358667">Now you must understand how value is created for your customers. To do so, managers use a technique called the “<emphasis effect="bold">Marketing Mix</emphasis>” (commonly called the four P´s)</para>
+      <list id="id1167812210711" list-type="bulleted">
+        <item>Product: What is the product/satisfactor that best fulfills my customer’s needs? </item>
+        <item>Price: What should be the appropriate price for this product that reflects not only its cost but also its benefits to compete with other products in the same segment or substitute products? </item>
+        <item>Place: In what markets should the company offer the product?</item>
+        <item>Promotion: How should the company promote the product or satisfactor?</item>
+      </list>
+      <para id="id1167811895234">One of the main advantages of the marketing model approach is that the company tries to be near the customer’s needs by understanding them and therefore developing products that fulfill or exceed them in the best possible way. On the other hand, and especially in developing economies, the main disadvantage of this model is the cost in obtaining the information needed to understand the customer. </para>
+  </content>
+</document>
