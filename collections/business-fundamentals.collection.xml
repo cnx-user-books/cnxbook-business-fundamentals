@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Global Text Project">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11227</md:content-id>
     <md:title>Business Fundamentals</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d6db603c-cd31-4ca4-be19-d29734673b90</md:uuid>
-<md:slug>business-fundamentals</md:slug>
-</metadata>
+    <md:slug>business-fundamentals</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>The business eco-system: Your path to finding the pot of gold at the end of the rainbow!</md:title>
@@ -28,7 +29,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>The mind of the entrepreneur: Your entrepreneurial journey begins by embarking on your own hero’s journey!</md:title>
+      <md:title>The mind of the entrepreneur: Your entrepreneurial journey begins by embarking on your own hero&#x2019;s journey!</md:title>
       <col:content>
         <col:module document="m35333"/>
         <col:module document="m35340"/>
